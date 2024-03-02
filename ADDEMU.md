@@ -1,7 +1,7 @@
 # OPK(スタンドアローンエミュレータなど)ファイルの追加手順
 下記のディレクトリにOPKファイルを設置してください。
 ```
-SD : roms/.config/apps
+SD : .config/apps
 (FULL Path : /media/roms/.config/apps)
 ```
 
@@ -55,7 +55,7 @@ SD : .config/.gmenu2x/sections/retroarch
 # Procedure for adding OPK (standalone emulator, etc.) files
 Please place the OPK file in the directory below.
 ````
-SD: roms/.config/apps
+SD: .config/apps
 (FULL Path: /media/roms/.config/apps)
 ````
 
