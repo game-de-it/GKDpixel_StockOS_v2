@@ -55,6 +55,11 @@ Please note that this OS image does not include BIOS or ROM files in accordance 
 - USB device not available
    - Keyboard, WiFi dongle, etc.
 
+## Other notes
+- Excludes game section, some opk files, and skin files to reduce file size
+   - You can restore by copying the necessary files from the old StockOS
+   - Directory structure is shown below
+   
 # Front end switching procedure
 For esoteric and gmenu2x, execute "FE changes" in the "settings" section.  
 If you want to switch from MinUI, please execute "Revert Stock" in "Tools".  
