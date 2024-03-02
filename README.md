@@ -56,6 +56,10 @@ StockOSをベースに新しい機能を追加させました。
 - USB機器が利用できない
   - キーボードやWiFiドングルなど
 
+# フロントエンドの切り替え手順
+esotericおよびgmenu2xでは”settings”セクションにある"FE changes"を実行してください。  
+MinUIから切り替える場合は"Tools"の中にある"Revert Stock"を実行してください。  
+
 # ファイルパス一覧
 ## ROMディレクトリ
 [ROMディレクトリのファイルパス一覧はこちら](./ROMDIRS.md)

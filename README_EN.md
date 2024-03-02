@@ -53,6 +53,10 @@ Please note that this OS image does not include BIOS or ROM files in accordance 
 - USB device not available
    - Keyboard, WiFi dongle, etc.
 
+# Front end switching procedure
+For esoteric and gmenu2x, execute "FE changes" in the "settings" section.  
+If you want to switch from MinUI, please execute "Revert Stock" in "Tools".  
+
 # File path list
 ## ROM directory
 [Click here for a list of ROM directory file paths](./ROMDIRS.md)
