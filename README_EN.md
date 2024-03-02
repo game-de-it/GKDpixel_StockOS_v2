@@ -3,6 +3,8 @@
   <img src="./asset/top.png" width="480">  
 </p>
 
+Note: I named this SD card image "v2", but this is not GKD official (^^;)  
+
 ## Acknowledgments
 I would like to thank the developers of each software and those who supported my work.
 - MinUI: https://github.com/shauninman/MinUI
