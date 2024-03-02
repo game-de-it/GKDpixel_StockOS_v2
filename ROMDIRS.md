@@ -1,5 +1,5 @@
 ## ROMディレクトリ(ROM directorys)
-|path|libretro core|stabalone emu|
+|path|libretro core|standalone emu|
 |:-----------|------------|------------:|
 |SD : roms/3do||3DO|
 |SD : roms/amiga|puae||
