@@ -59,9 +59,10 @@ StockOSをベースに新しい機能を追加させました。
 
 ## その他の注意事項
 - ファイルサイズ縮小のため、gameセクション、幾つかのopkファイル、スキンファイルを除外しています
-  - 旧StockOSから必要なファイルをコピーすれば復元できます
-  - ディレクトリ構造は下記に記してあります
-
+  - 旧StockOSから必要なファイルを.config/appsにコピーすれば復元できます
+  - ffplayなどのアプリケーションは下記のサイトから入手できます  
+  https://github.com/SeongGino/RetroGame350-AppRepo/tree/master/Applications
+  
 # フロントエンドの切り替え手順
 esotericおよびgmenu2xでは”settings”セクションにある"FE changes"を実行してください。  
 MinUIから切り替える場合は"Tools"の中にある"Revert Stock"を実行してください。  

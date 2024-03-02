@@ -57,9 +57,11 @@ Please note that this OS image does not include BIOS or ROM files in accordance 
 
 ## Other notes
 - Excludes game section, some opk files, and skin files to reduce file size
-   - You can restore by copying the necessary files from the old StockOS
-   - Directory structure is shown below
+   - You can restore by copying the necessary files from the old StockOS to .config/apps
+   - Applications such as ffplay can be obtained from the following site
+   https://github.com/SeongGino/RetroGame350-AppRepo/tree/master/Applications
    
+
 # Front end switching procedure
 For esoteric and gmenu2x, execute "FE changes" in the "settings" section.  
 If you want to switch from MinUI, please execute "Revert Stock" in "Tools".  
