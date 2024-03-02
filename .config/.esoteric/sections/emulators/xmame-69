@@ -1,0 +1,7 @@
+title=XMAME69
+description=Exit key: L+R+SELECT  Menu key: L+R+START
+icon=/media/roms/apps/xmame-69/resource/xmame.png
+exec=/media/roms/apps/xmame-69/xmame.dge
+consoleapp=true
+manual=/media/roms/apps/xmame-69/xmame手册.txt
+selectorBrowser=true

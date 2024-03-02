@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <ap>
+    <romname>宝可梦-绿宝石[简].zip</romname>
+    <rompath/>
+    <prepath>/media/roms/roms/gba/04-角色扮演/previews/宝可梦-绿宝石[简].png</prepath>
+    <emuname>菜单键:双S键/右快捷键 加速L2 存档R2(金手指)</emuname>
+    <run>/usr/bin/opkrun -m default.gcw0.desktop "/media/data/apps/GBA模拟器8.4-cc.opk" "/media/roms/roms/gba/04-角色扮演/宝可梦-绿宝石[简].zip"</run>
+    <lx>skin:icons/regba-silver.png</lx>
+  </ap>
+  <ap>
+    <romname>口袋妖怪-黄(汉化版).zip</romname>
+    <rompath/>
+    <prepath>/media/roms/roms/gb gbc/GB游戏/11-其他1/previews/口袋妖怪-黄(汉化版).png</prepath>
+    <emuname>菜单：R/右快捷键 加速：按住L</emuname>
+    <run>/usr/bin/opkrun -m default.gcw0.desktop "/media/data/apps/GB-GBC模拟器Gambatte-DMSv1.2.1.opk" "/media/roms/roms/gb gbc/GB游戏/11-其他1/口袋妖怪-黄(汉化版).zip"</run>
+    <lx>skin:icons/gambatte_dms.png</lx>
+  </ap>
+  <ap>
+    <romname>增强绿宝石 v9502 汉化版(07.12).gba</romname>
+    <rompath/>
+    <prepath/>
+    <emuname>菜单键:双S/右快捷键（金手指）支持GB/GBC/GBA</emuname>
+    <run>/usr/bin/opkrun -m default.gcw0.desktop "/media/data/apps/GBA模拟器mGBA-SX1.0.opk" "/media/roms/roms/gba/15-口袋妖怪优秀合集/增强绿宝石 v9502 汉化版(07.12).gba"</run>
+    <lx>skin:icons/mgbasx.png</lx>
+  </ap>
+  <ap>
+    <romname>口袋妖怪-黄(汉化版).zip</romname>
+    <rompath/>
+    <prepath>/media/roms/roms/gb gbc/GB游戏/11-其他1/previews/口袋妖怪-黄(汉化版).png</prepath>
+    <emuname>菜单键：L+R</emuname>
+    <run>/usr/bin/opkrun -m default.gcw0.desktop "/media/data/apps/GBGBC模拟器ohboy-no.opk" "/media/roms/roms/gb gbc/GB游戏/11-其他1/口袋妖怪-黄(汉化版).zip"</run>
+    <lx>skin:icons/ohboy.png</lx>
+  </ap>
+  <ap>
+    <romname>牧场-矿石镇的伙伴们[简].zip</romname>
+    <rompath/>
+    <prepath>/media/roms/roms/gba/07-模拟经营/previews/牧场-矿石镇的伙伴们[简].png</prepath>
+    <emuname>菜单键:双S键/右快捷键 加速L2 存档R2(金手指)</emuname>
+    <run>/usr/bin/opkrun -m default.gcw0.desktop "/media/data/apps/GBA模拟器8.4-cc.opk" "/media/roms/roms/gba/07-模拟经营/牧场-矿石镇的伙伴们[简].zip"</run>
+    <lx>skin:icons/regba-silver.png</lx>
+  </ap>
+</root>

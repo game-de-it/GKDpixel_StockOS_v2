@@ -1,0 +1,11 @@
+title=MSX
+description=MSX emulator
+icon=/usr/local/home/.esoteric/cache/images/msx-test/openMSX-logo-32.png
+exec=/usr/bin/opkrun
+params=-m default.gcw0.desktop "/media/data/apps/msx-test.opk"
+consoleapp=false
+manual=/media/data/local/home/.esoteric/cache/手册/openmsx/手册.txt
+selectorBrowser=true
+X-Provider=/media/data/apps/msx-test.opk
+X-ProviderMetadata=default.gcw0.desktop
+selectordir=/media/sdcard/Roms

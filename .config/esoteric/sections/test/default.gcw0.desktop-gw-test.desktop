@@ -1,0 +1,10 @@
+title=G&W
+description=gw
+icon=/usr/local/home/.esoteric/cache/images/gw-test/gameandwatch.png
+exec=/usr/bin/opkrun
+params=-m default.gcw0.desktop "/media/data/apps/gw-test.opk"
+consoleapp=false
+manual=/usr/share/n/cache/手册/gw/手册.txt
+selectorBrowser=true
+X-Provider=/media/data/apps/gw-test.opk
+X-ProviderMetadata=default.gcw0.desktop

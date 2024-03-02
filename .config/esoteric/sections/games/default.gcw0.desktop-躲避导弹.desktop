@@ -1,0 +1,16 @@
+# 350teric X-tended desktop file
+# lines starting with a # are ignored
+
+title=躲避导弹
+description=
+icon=/usr/local/home/.esoteric/cache/images/躲避导弹/fever.png
+exec=/usr/bin/opkrun
+params=-m default.gcw0.desktop "/media/data/apps/躲避导弹.opk"
+selectorDir=
+selectorFilter=
+selectorAlias=
+manual=/usr/local/home/.esoteric/cache/manuals/躲避导弹/gcw0.man.txt
+workdir=
+X-Provider=/media/data/apps/躲避导弹.opk
+X-ProviderMetadata=default.gcw0.desktop
+consoleapp=false

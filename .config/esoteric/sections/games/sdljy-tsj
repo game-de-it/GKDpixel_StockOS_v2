@@ -1,0 +1,8 @@
+title=天书劫
+description=天书劫
+icon=/media/roms/apps/sdljy-tsj/sdljy.png
+exec=/media/roms/apps/sdljy-tsj/sdljy.dge
+consoleapp=true
+manual=/usr/share/n/cache/手册/金庸/手册.txt
+selectorbrowser=false
+selectorbrowser=false

@@ -1,0 +1,16 @@
+# 350teric X-tended desktop file
+# lines starting with a # are ignored
+
+title=玩弄美食
+description=
+icon=/usr/local/home/.esoteric/cache/images/玩弄美食/fruity.png
+exec=/usr/bin/opkrun
+params=-m default.gcw0.desktop "/media/data/apps/玩弄美食.opk"
+selectorDir=
+selectorFilter=
+selectorAlias=
+manual=/usr/local/home/.esoteric/cache/manuals/玩弄美食/readme.man.txt
+workdir=
+X-Provider=/media/data/apps/玩弄美食.opk
+X-ProviderMetadata=default.gcw0.desktop
+consoleapp=false

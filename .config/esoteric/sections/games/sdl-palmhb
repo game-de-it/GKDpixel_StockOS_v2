@@ -1,0 +1,8 @@
+title=梦幻
+description=仙剑奇侠传梦幻版2.2.2
+icon=/media/roms/apps/sdl-palmhb/icon-32.png
+exec=/media/roms/apps/sdl-palmhb/sdlpal.dge
+consoleapp=true
+manual=/usr/share/n/cache/手册/仙剑/手册.txt
+selectorbrowser=false
+selectorbrowser=false

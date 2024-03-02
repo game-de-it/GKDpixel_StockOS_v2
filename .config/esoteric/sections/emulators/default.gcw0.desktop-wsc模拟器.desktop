@@ -1,0 +1,11 @@
+title=WSC
+description=菜单键:SELECT/右快捷键
+icon=/usr/local/home/.esoteric/cache/images/wsc模拟器/WSC.png
+exec=/usr/bin/opkrun
+params=-m default.gcw0.desktop "/media/data/apps/wsc模拟器.opk"
+consoleapp=false
+manual=/usr/share/n/cache/手册/wsc/手册.txt
+selectorBrowser=true
+X-Provider=/media/data/apps/wsc模拟器.opk
+X-ProviderMetadata=default.gcw0.desktop
+selectordir=/media/sdcard/Roms/WSC

@@ -1,0 +1,11 @@
+title=MD32X
+description=Menu:Menu key
+icon=/media/data/local/home/.esoteric/cache/images/32X游戏picodrive/picodrive.png
+exec=/usr/bin/opkrun
+params=-m default.gcw0.desktop "/media/data/apps/MD32X.opk"
+consoleapp=false
+manual=/media/data/local/home/GKDmini-emulator manual/emulator/MD-megadrive16-32X/manual-en.txt
+selectorBrowser=true
+X-Provider=/media/data/apps/MD32X.opk
+X-ProviderMetadata=default.gcw0.desktop
+selectordir=/media/roms/roms/sega32x

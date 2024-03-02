@@ -1,0 +1,9 @@
+DOS emulator
+Menu key: start+select
+Exit button: short press the power button
+Keyboard: L1
+Mouse: R1
+RunningDOSgames cannot be larger than 
+320X240 resolution games,
+Otherwise,it will not display fully
+Archive directory: /usr/local/home/.dosbox

@@ -1,0 +1,84 @@
+FBA-44 aircraft approved version
+Version 44 supports cheats
+
+GKDmini special plane simulator, please 
+play the plane game horizontally,
+There is a dedicated aircraft button on 
+the left side, no need to press 
+continuously, press and hold to fire
+Airplane game with three keys, airplane 
+key 1.2 is two kinds of bullets, L1 bomb
+Two-button plane game, plane button 1 
+is for bullets, 2 for bombs
+Archive directory
+/usr/local/home/.fba4arm/Saves
+Goldfinger Directory
+/usr/local/home/.fba4arm/cheats
+
+Directory menu general usage tutorial
+
+Key Description
+a run b return x help
+select exit start popup menu
+
+color help
+red no rom file
+Yellow Original Orange Clone
+white selected sign
+
+hotkey help
+Y+Left and Y+Right filter by hardware
+Y+Up and Y+Down Filter by Availability
+Y+L and Y+R filter by type
+Y+select set/unset selected flag to rom
+Y+A Add selected game to favorites list
+
+roms paths
+Game ROM path - rom path 1 (path 1)
+General games are under media/roms/Roms/FBA
+Enter the folder and press start, then 
+press select to exit
+The path directory is enough, a total of 
+20 paths can be created
+If the game directory is placed on the 
+secondary card, the path will be changed to
+Folder under the secondary card of 
+media/sdcard
+
+
+
+In-game shortcut keys
+
+L+R+Y Display frame number
+L+R+A Quick file reading
+L+R+B quick save
+L+R+select NEO game service menu
+f2/(L+R+start) FBA menu
+seclect coin start start
+
+Burst button setting tutorial
+autofire 1 auto-off
+Turn on to on, after turning on, do not 
+press the button to automatically burst,
+If you need to press and hold the button
+ to burst, please turn off
+
+autofire 1 fps -off
+When turned on, it is displayed as 
+6fps 10fps 16fps 30fps
+The smaller the number, the faster the burst
+
+autofire 1 key -x
+If your y is a fist, you can change it to Y,
+After modifying Y, press and hold Y in the 
+game to automatically fire bursts
+And so on, generally choose fps
+Change it to 6fps, and change the key to 
+the required skill key.
+
+Quick Read Archive Setup Tutorial
+Select save state 0 and press A to save,
+Then select load state 0 and press A to read
+A total of 10 archive slots, the left and 
+right arrow keys to select the slot,
+Save and read are valid according to A 

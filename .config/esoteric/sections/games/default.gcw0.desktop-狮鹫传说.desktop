@@ -1,0 +1,16 @@
+# 350teric X-tended desktop file
+# lines starting with a # are ignored
+
+title=狮鹫传说
+description=
+icon=/usr/local/home/.esoteric/cache/images/狮鹫传说/griffon.png
+exec=/usr/bin/opkrun
+params=-m default.gcw0.desktop "/media/data/apps/狮鹫传说.opk"
+selectorDir=
+selectorFilter=
+selectorAlias=
+manual=
+workdir=
+X-Provider=/media/data/apps/狮鹫传说.opk
+X-ProviderMetadata=default.gcw0.desktop
+consoleapp=false

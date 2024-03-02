@@ -1,0 +1,12 @@
+source "/usr/local/home/.ohboy/palettes/ZGS-gbasp.pal"
+set palette "/usr/local/home/.ohboy/palettes/ZGS-gbasp.pal"
+set colorfilter 0
+set filterdmg 0
+set upscaler 4
+set bmpenabled 1
+set border "/usr/local/home/.ohboy/borders/ZGS-27.png"
+set gbcborder "/usr/local/home/.ohboy/borders/ZGS-23.png"
+set red 0x0000aa 0x00002b 0x00002b 0x000000
+set green 0x00002b 0x0000aa 0x00002b 0x000000
+set blue 0x00002b 0x00002b 0x0000aa 0x000000
+set blendframes 0

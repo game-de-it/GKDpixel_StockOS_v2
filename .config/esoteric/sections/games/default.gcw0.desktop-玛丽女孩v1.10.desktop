@@ -1,0 +1,16 @@
+# 350teric X-tended desktop file
+# lines starting with a # are ignored
+
+title=玛丽女孩
+description=
+icon=/usr/local/home/.esoteric/cache/images/玛丽女孩v1.10/giana.png
+exec=/usr/bin/opkrun
+params=-m default.gcw0.desktop "/media/data/apps/玛丽女孩v1.10.opk"
+selectorDir=
+selectorFilter=
+selectorAlias=
+manual=/usr/local/home/.esoteric/cache/manuals/玛丽女孩v1.10/readme.man.txt
+workdir=
+X-Provider=/media/data/apps/玛丽女孩v1.10.opk
+X-ProviderMetadata=default.gcw0.desktop
+consoleapp=false

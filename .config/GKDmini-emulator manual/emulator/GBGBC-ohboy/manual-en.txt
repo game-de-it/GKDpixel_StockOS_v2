@@ -1,0 +1,10 @@
+GB/GBC emulator GAMEBOY GALLERY
+
+Archive directory 
+/usr/local/home/.ohboy/saves
+border directory 
+/usr/local/home/.ohboy/borders
+Filter directory 
+/usr/local/home/.ohboy/palettes
+
+Menu key L+R

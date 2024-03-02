@@ -1,0 +1,58 @@
+Xump v1.00 by Retroguru [ July 2014 ]
+h t t p : / / w w w . r e t r o g u r u . c o m
+
+! 法律公告：
+
+Xump是免费软件。开发团队保留所有权利。
+
+这场比赛不应该以任何形式收费。分配
+
+如果您链接到www.retroguru.com.
+
+仅在汇编、CD、DVD或其他媒体上分发
+
+得到书面许可。有联系方式
+
+在Retroguru主页上。
+
+! 答案：
+
+Xump是一款简单的单屏幕益智游戏，最初发布于2005年
+
+通过Psilocybin开发。Retroguru的这次大修是一次重写
+
+采用新的图形，新的水平，新的音乐。。。全新的
+
+一切。
+
+如果你喜欢这个游戏，你可以考虑捐款，这会有帮助
+
+为我们的下一个项目提供资金。提前多谢：）
+
+! 日期：
+
+帮助桑普和他的人类主人霍尔格解除田野上的地雷
+
+位于大气层上方的某个地方。通过销毁收集硬币
+
+但不落在运动场上。
+! 控制 :
+
+默认控制: 
+上 = D-PAD UP 
+下= D-PAD DOWN
+左= D-PAD LEFT
+右 = D-PAD RIGHT 
+暂停 = START
+
+
+Use the ingame menue to change keyboard, joystick or joypad behaviour.
+The supported devices very much rely on the operating system and your
+hardware.
+
+使用ingame菜单更改键盘、操纵杆或操纵手柄的行为。
+
+支持的设备在很大程度上依赖于操作系统和
+
+硬件。
+

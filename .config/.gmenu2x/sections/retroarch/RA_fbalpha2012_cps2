@@ -1,0 +1,8 @@
+title=CPS2
+consoleapp=true
+description=libretro core fbalpha2012_cps2
+exec=/media/roms/.config/apps/RA_changes/RA_changes.sh
+params=%f fbalpha2012_cps2_libretro.so
+icon=/media/roms/.config/icons/cps2.png
+selectorbrowser=true
+selectordir=/media/roms/roms/cps2

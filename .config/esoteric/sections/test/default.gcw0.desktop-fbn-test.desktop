@@ -1,0 +1,12 @@
+title=FBN-SX
+description=fbn
+icon=/usr/local/home/.esoteric/cache/images/fbn-test/fbnsx.png
+exec=/usr/bin/opkrun
+params=-m default.gcw0.desktop "/media/data/apps/fbn-test.opk"
+consoleapp=false
+manual=/media/data/local/home/.esoteric/cache/手册/fbn-sx/手册.txt
+selectorBrowser=true
+selectorFilter=zip
+X-Provider=/media/data/apps/fbn-test.opk
+X-ProviderMetadata=default.gcw0.desktop
+selectordir=/media/sdcard/Roms/FBN

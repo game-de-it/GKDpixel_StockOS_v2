@@ -1,0 +1,12 @@
+title=GB
+description=菜单键:R/右快捷键 加速:按住L(cc)
+icon=/usr/local/home/.esoteric/cache/images/GB/gambatte_dms.png
+exec=/usr/bin/opkrun
+params=-m default.gcw0.desktop "/media/data/apps/GB.opk"
+consoleapp=false
+manual=/media/data/local/home/.esoteric/cache/manuals/GB-GBC模拟器Gambatte-DMSv1.2.1/manual-cn.txt
+selectorBrowser=true
+selectorFilter=gb,zip
+X-Provider=/media/data/apps/GB.opk
+X-ProviderMetadata=default.gcw0.desktop
+selectordir=/media/sdcard/Roms/GBGBC

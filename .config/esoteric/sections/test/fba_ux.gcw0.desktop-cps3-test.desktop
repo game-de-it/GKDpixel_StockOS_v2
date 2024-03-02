@@ -1,0 +1,10 @@
+title=街机CPS3
+description=菜单键：L+R+START
+icon=/usr/local/home/.esoteric/cache/images/cps3-test/fba_cps3.png
+exec=/usr/bin/opkrun
+params=-m fba_ux.gcw0.desktop "/media/data/apps/cps3-test.opk"
+consoleapp=false
+manual=/usr/share/n/cache/手册/街机cps3/手册.txt
+selectorBrowser=true
+X-Provider=/media/data/apps/cps3-test.opk
+X-ProviderMetadata=fba_ux.gcw0.desktop

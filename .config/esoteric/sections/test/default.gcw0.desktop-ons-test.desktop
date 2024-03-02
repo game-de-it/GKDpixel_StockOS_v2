@@ -1,0 +1,10 @@
+title=ONS
+description=ONScripter
+icon=/usr/local/home/.esoteric/cache/images/ons-test/onscripter.png
+exec=/usr/bin/opkrun
+params=-m default.gcw0.desktop "/media/data/apps/ons-test.opk"
+consoleapp=false
+manual=/usr/share/n/cache/手册/ons/手册.txt
+selectorBrowser=true
+X-Provider=/media/data/apps/ons-test.opk
+X-ProviderMetadata=default.gcw0.desktop

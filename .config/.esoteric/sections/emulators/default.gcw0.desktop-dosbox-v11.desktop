@@ -1,0 +1,12 @@
+title=Dosbox
+description=Menu:se+st/Keyboard:L1/Mouse:R1
+icon=/usr/local/home/.esoteric/cache/images/dosbox-v11/dosbox.png
+exec=/usr/bin/opkrun
+params=-m default.gcw0.desktop "/media/data/apps/dosbox-v11.opk"
+consoleapp=false
+manual=/media/data/local/home/GKDmini-emulator manual/emulator/DOS/manual-en.txt
+selectorbrowser=false
+X-Provider=/media/data/apps/dosbox-v11.opk
+X-ProviderMetadata=default.gcw0.desktop
+selectordir=/media/roms/roms/dos
+selectorbrowser=false

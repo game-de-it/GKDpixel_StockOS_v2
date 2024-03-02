@@ -1,0 +1,15 @@
+#KEY BINDINGS#
+set button_a 1
+set button_b 2
+set button_x 0
+set button_y 0
+set button_l 0
+set button_r 0
+bind ctrl +a
+bind alt +b
+unbind space
+unbind shift
+unbind tab
+unbind backspace
+set analog_input 1
+#slot used by gcw-zero port#

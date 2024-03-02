@@ -1,0 +1,6 @@
+SNES/SFC Simulator
+
+Archive directory: 
+/usr/local/home/.snesemu/sstates
+
+Menu key SELECT+STATE

@@ -1,0 +1,90 @@
+PS Emulator
+
+Chinese menu, support cheat, support 
+shortcut keys, support zoom
+
+Archive directory: /usr/local/home/
+.pcsx4all/sstates
+bios directory: /usr/local/home/
+.pcsx4all/bios
+Cheats directory: /usr/local/home/
+.pcsx4all/cheats
+
+Note: previews is the preview image folder, 
+not the game
+Select the secondary card ROM Press select 
+on the game icon to select Edit Emulator
+Select the simulator path, click the upper 
+menu until you see the sdcard secondary card
+Select the folder and press start to confirm 
+the directory and then press start to exit.
+Then enter the PS emulator and it will come out
+
+Menu key: right menu key/select+start
+
+The general questions are explained as follows:
+1. It is recommended to operate both in-game 
+and menu quick read archives.In case of loss 
+of in-game save files
+
+2. Button mapping, generally set hot keys 
+directly, game buttons The setting does not 
+need to be moved, set the button and press to 
+save the setting
+   
+Hot keys Common key combination shortcut keys
+select+ A toggle filter
+select+ L1 read fast archive
+select+ R1 write to fast archive
+select+ L2 to enable acceleration, press 
+           select to cancel
+select+ R2 switch frame number display
+select + start to enter the menu
+select + X press and hold to accelerate, 
+        release to return to original speed
+
+3. GPU general explanation: output scaling - 
+the closest point of the software is the 
+best speed Hardware is best - consumes 
+performance to display game words over 320X240
+The body can see a little clearer,
+
+Analog IPU algorithm: fast is the best speed,
+Accurate for the best picture - consumes
+performance
+
+Jitter: After opening, the picture with 
+transition layer will be smooth
+
+4. General explanation of the kernel: the 
+bios is set and automatically switched
+no need to modify
+
+Analog mode: the default double vibration, 
+if there is no button in some games If it is 
+reactive, please modify it to a number.
+
+Vibration level: up to 15, adjust the vibration 
+intensity according to your own preferences
+
+5. Goldfinger - Most classic games have cheats, 
+some have cheats Options may not be useful 
+to turn on, please note
+
+The solution to the stuck in the wandering 
+adventure game
+1. Instant archive first
+2. Exit the game, and then enter the game to 
+call out the menu to select the kernel settings
+3. Change the core settings from rec to int
+4. Use the emulator menu to exit, do not use 
+the power to exit, then go to the Directory 
+of emulators to open games
+5. Read the real-time archive, pass the crash
+part, and then archive it again
+6. Repeat 3,4,5 to change the int back to rec 
+and continue to play In a word, change it to 
+int, after the crash, change back to rec to 
+continue playing But it must be changed by the
+independent simulator, otherwise it will not 
+take effect. 

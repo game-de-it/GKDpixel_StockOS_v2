@@ -1,0 +1,11 @@
+title=PCFX
+description=Needs pcfx.rom in $HOME/.pcfxemu
+icon=/usr/local/home/.esoteric/cache/images/pcfx-test/pcfx.png
+exec=/usr/bin/opkrun
+params=-m default.gcw0.desktop "/media/data/apps/pcfx-test.opk"
+consoleapp=false
+manual=/usr/share/n/cache/手册/pcfx/手册.txt
+selectorBrowser=true
+X-Provider=/media/data/apps/pcfx-test.opk
+X-ProviderMetadata=default.gcw0.desktop
+selectordir=/media/sdcard/Roms

@@ -1,0 +1,9 @@
+title=MAME
+icon=/usr/local/home/.esoteric/cache/images/mame4all-test/MAME.png
+exec=/usr/bin/opkrun
+params=-m default.gcw0.desktop "/media/data/apps/mame4all-test.opk"
+consoleapp=false
+manual=/media/data/local/home/.esoteric/cache/手册/mame/手册.txt
+selectorBrowser=true
+X-Provider=/media/data/apps/mame4all-test.opk
+X-ProviderMetadata=default.gcw0.desktop

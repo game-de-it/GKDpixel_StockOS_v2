@@ -1,0 +1,10 @@
+按键说明
+select；菜单
+a确定
+英文说明
+continue 继续
+load state 0 即时读档0
+save state 0 即时存档0
+scaling：Stretched 显示设定
+input remapping 按键映射
+Quit 退出

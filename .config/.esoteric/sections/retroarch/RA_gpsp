@@ -1,0 +1,8 @@
+title=GBA
+consoleapp=true
+description=libretro core gpsp
+exec=/media/roms/.config/apps/RA_changes/RA_changes.sh
+params=%f gpsp_libretro.so
+icon=/media/roms/.config/icons/gba.png
+selectorbrowser=true
+selectordir=/media/roms/roms/gba

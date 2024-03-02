@@ -1,0 +1,4 @@
+title=SD SYNC
+description=SD SYNC
+exec=/bin/sync
+icon=/media/roms/.config/icons/sd.png

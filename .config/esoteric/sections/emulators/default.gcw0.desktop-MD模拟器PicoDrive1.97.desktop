@@ -1,0 +1,11 @@
+title=MD
+description=A megadrive/genesis emulator
+icon=/usr/local/home/.esoteric/cache/images/MD模拟器PicoDrive1.97/megadrive.png
+exec=/usr/bin/opkrun
+params=-m default.gcw0.desktop "/media/data/apps/MD模拟器PicoDrive1.97.opk"
+consoleapp=false
+manual=/usr/share/n/cache/手册/md/手册.txt
+selectorBrowser=true
+X-Provider=/media/data/apps/MD模拟器PicoDrive1.97.opk
+X-ProviderMetadata=default.gcw0.desktop
+selectordir=/media/sdcard/Roms/MD

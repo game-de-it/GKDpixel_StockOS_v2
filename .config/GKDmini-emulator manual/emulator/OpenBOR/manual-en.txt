@@ -1,0 +1,20 @@
+OpenBOR Emulator
+
+Exit: short press the power button
+
+default directory
+PAK files: /media/roms/apps/OpenBOR/Paks
+Archive file: /usr/local/home/.OpenBOR/Saves
+Log file: /usr/local/home/.OpenBOR/Logs
+
+Note: After adding the game, open the opnbor 
+emulator and flash back Do as follows
+Delete all games in the Paks folder and put 
+in a new game Put in a game to test whether 
+it flashes back, if not, then put the second 
+one Enter the game, if it does not flash back, 
+repeat the above method and continue to put 
+it in.If there is a flashback, it means that 
+this game library conflicts with other game 
+libraries.You can delete other games and put 
+this flashback game into the test alone.

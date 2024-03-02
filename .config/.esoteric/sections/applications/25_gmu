@@ -1,0 +1,7 @@
+title=gmu
+description=多格式音乐播放器
+icon=skin:icons/gmu.png
+exec=/media/data/local/home/apps/gmu/gmu.dge
+consoleapp=true
+manual=/media/data/local/home/MINI模拟器手册/程序/音乐/manual-cn.txt
+selectorBrowser=true

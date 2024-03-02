@@ -1,0 +1,9 @@
+title=st
+description=st
+exec=/media/data/local/home/apps/pcsx/pcsx -cdfile "$1"
+icon=skin:icons/pcsx.png
+hinese
+exec=/media/data/local/home/apps/pcsx/pcsx -cdfile "$1"
+icon=skin:icons/pcsx.png
+#selectorbrowser=true
+#selectordir=/media/roms/roms/psx

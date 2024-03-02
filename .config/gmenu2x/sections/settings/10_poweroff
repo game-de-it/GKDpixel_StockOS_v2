@@ -1,0 +1,10 @@
+title=PowerOFF
+description=PowerOFF
+launchmsg=Powering off
+icon=skin:icons/poweroff.png
+exec=/sbin/poweroff
+editable=false
+
+icon=skin:icons/poweroff.png
+exec=/sbin/poweroff
+editable=false

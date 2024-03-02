@@ -1,0 +1,16 @@
+# 350teric X-tended desktop file
+# lines starting with a # are ignored
+
+title=DevilutionX
+description=
+icon=/usr/local/home/.esoteric/cache/images/暗黑破坏神devilutionx/Diablo_32.png
+exec=/usr/bin/opkrun
+params=-m default.gcw0.desktop "/media/data/apps/暗黑破坏神devilutionx.opk"
+selectorDir=
+selectorFilter=
+selectorAlias=
+manual=/usr/local/home/.esoteric/cache/manuals/暗黑破坏神devilutionx/readme.gcw0.txt
+workdir=
+X-Provider=/media/data/apps/暗黑破坏神devilutionx.opk
+X-ProviderMetadata=default.gcw0.desktop
+consoleapp=false

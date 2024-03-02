@@ -1,0 +1,11 @@
+图标 by starvingartist (http://starvingartist.deviantart.com/)
+感谢mth的帮助
+按键说明：
+select；菜单
+英文说明
+continue继续
+load state 0 即时读档0
+save state 0 即时存档0
+scaling：stretched 显示设置
+input remapping 按键映射
+quit退出

@@ -1,0 +1,37 @@
+GKDMINI FCEUX simulator V2.2.3 English version
+
+Cheat files are stored in .fceux/cheats format:
+[Number of lives]
+ON=46,9
+
+[Invincible when flying]
+ON=E7A,3
+
+[Unlimited energy in the fortress]
+ON=DE7,FF;DE9,FF
+
+[9 bundles in the fortress]
+ON=DED,9;DEC,9
+
+[GameInfo]
+Name=Air Fortress (U)
+System=FC
+Text=Air Fortress (U)
+
+
+hot key:
+L2 menu
+L1 fast forward
+R2 fast switching\rendering mode
+slect + start exit the game
+
+R1 + upper display frame rate
+R1 + start emulator pause
+R1 + select screenshot
+
+Version number description:
+V2.2.3 depends on the main version of FCEUX.
+The version number of the MX modification.
+
+This version is based on the fceux version modified by Situ, cjs and soarqin and the community open source version. Thanks for their contributions.
+Source code: https://github.com/littlehui/fceux-for-retrogame

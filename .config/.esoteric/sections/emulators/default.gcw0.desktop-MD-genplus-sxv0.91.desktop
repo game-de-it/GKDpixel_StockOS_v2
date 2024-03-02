@@ -1,0 +1,11 @@
+title=MD.sx
+description=Menu:Menu key     GenPlus
+icon=/usr/local/home/.esoteric/cache/images/MD-genplus-sxv0.91/genes.png
+exec=/usr/bin/opkrun
+params=-m default.gcw0.desktop "/media/data/apps/MD-genplus-sxv0.91.opk"
+consoleapp=false
+manual=/media/data/local/home/GKDmini-emulator manual/emulator/MD-genplus-sxv0.98/manual-en.txt
+selectorBrowser=true
+X-Provider=/media/data/apps/MD-genplus-sxv0.91.opk
+X-ProviderMetadata=default.gcw0.desktop
+selectordir=/media/roms/roms/megadrive

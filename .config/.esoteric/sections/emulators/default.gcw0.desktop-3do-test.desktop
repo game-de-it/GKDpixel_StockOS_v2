@@ -1,0 +1,11 @@
+title=3Do
+description=3DO emulator
+icon=/usr/local/home/.esoteric/cache/images/3do-test/3do.png
+exec=/usr/bin/opkrun
+params=-m default.gcw0.desktop "/media/data/apps/3do-test.opk"
+consoleapp=false
+manual=/media/data/local/home/GKDmini-emulator manual/test simulator/3DO/manual-en.txt
+selectorBrowser=true
+X-Provider=/media/data/apps/3do-test.opk
+X-ProviderMetadata=default.gcw0.desktop
+selectordir=/media/roms/roms/3do

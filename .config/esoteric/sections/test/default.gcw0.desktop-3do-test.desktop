@@ -1,0 +1,11 @@
+title=3Do
+description=3DO emulator
+icon=/usr/local/home/.esoteric/cache/images/3do-test/3do.png
+exec=/usr/bin/opkrun
+params=-m default.gcw0.desktop "/media/data/apps/3do-test.opk"
+consoleapp=false
+manual=/usr/share/n/cache/手册/3do/手册.txt
+selectorBrowser=true
+X-Provider=/media/data/apps/3do-test.opk
+X-ProviderMetadata=default.gcw0.desktop
+selectordir=/media/sdcard/Roms

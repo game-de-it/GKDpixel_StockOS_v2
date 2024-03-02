@@ -1,0 +1,30 @@
+按键说明
+a运行   b返回  x帮助  select退出
+
+颜色帮助
+红色  没有rom文件
+黄色  原版  橙色  克隆
+白色  选定的标志
+
+热键帮助
+Y+左和Y+右  按硬件筛选
+Y+上和Y+下  按可用性筛选
+Y+L和Y+R    按类型筛选
+Y+select    将选定标志设置/取消设置为rom
+
+Y+A         将选择的游戏添加到收藏列表
+游戏中按键
+
+L+R+Y  显示帧数
+L+R+A  快速读档
+L+R+B  快速存档
+L+R+select NEO游戏务菜单
+f2/(L+R+start) FBA菜单
+seclect 投币 start 开始
+
+
+load state：0  为即时读档 0，0为位置 
+save state：0  为即时存档 0，0为位置  
+save as preview 为保存截图为预览图
+ROMS paths 为路径选择
+Filter settings 为筛选设置

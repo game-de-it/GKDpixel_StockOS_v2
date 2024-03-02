@@ -1,0 +1,8 @@
+title=金庸群侠传
+description=SDL金庸群侠传
+icon=/media/roms/apps/sdljy/sdljy.png
+exec=/media/roms/apps/sdljy/sdljy.dge
+consoleapp=true
+manual=/usr/share/n/cache/手册/金庸/手册.txt
+selectorbrowser=false
+selectorbrowser=false

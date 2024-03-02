@@ -1,0 +1,10 @@
+title=ALSA mixer
+description=ALSA mixer
+icon=skin:icons/alsamixer.png
+exec=/usr/bin/alsamixer
+consoleapp=true
+editable=false
+s/alsamixer.png
+exec=/usr/bin/alsamixer
+consoleapp=true
+editable=false

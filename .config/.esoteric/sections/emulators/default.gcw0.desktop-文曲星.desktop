@@ -1,0 +1,16 @@
+# IUX X-tended desktop file
+# lines starting with a # are ignored
+
+title=WQX
+description=WQX
+icon=/usr/local/home/.esoteric/cache/images/文曲星/wqxicon.png
+exec=/usr/bin/opkrun
+params=-m default.gcw0.desktop "/media/data/apps/文曲星.opk"
+selectorDir=
+selectorFilter=
+selectorAlias=
+manual=/usr/local/home/.esoteric/cache/manuals/文曲星/gcw0readme.txt
+workdir=
+X-Provider=/media/data/apps/文曲星.opk
+X-ProviderMetadata=default.gcw0.desktop
+consoleapp=false

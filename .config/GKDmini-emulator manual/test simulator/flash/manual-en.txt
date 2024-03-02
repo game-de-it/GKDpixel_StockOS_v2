@@ -1,0 +1,4 @@
+Flash emulator
+
+L1 mouse
+select exit

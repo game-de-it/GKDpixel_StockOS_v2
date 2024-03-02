@@ -1,0 +1,10 @@
+title=文本编辑
+description=A very simple editor
+icon=/media/data/local/home/.esoteric/cache/images/glutexto（大字）/glutexto.png
+exec=/usr/bin/opkrun
+params=-m default.gcw0.desktop "/media/data/apps/文本编辑器-test.opk"
+consoleapp=false
+manual=/media/data/local/home/.esoteric/cache/手册/glutexto文本编辑/手册.txt
+selectorBrowser=true
+X-Provider=/media/data/apps/文本编辑器-test.opk
+X-ProviderMetadata=default.gcw0.desktop

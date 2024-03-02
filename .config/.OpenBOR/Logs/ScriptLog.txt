@@ -1,0 +1,429 @@
+
+####animationscript function main#####
+# data/chars/billy2/billy2.txt
+########################################
+void main()
+{
+    int frame = getlocalvar("frame");
+    int animhandle = getlocalvar("animhandle");
+    if(animhandle==22)
+    {
+        if(frame==0)
+        {
+            clearL();
+        }
+        return;
+    }
+    if(animhandle==29)
+    {
+        if(frame==4)
+        {
+            stop();
+        }
+        if(frame==4)
+        {
+            floater(100);
+        }
+        return;
+    }
+    if(animhandle==36)
+    {
+        if(frame==2)
+        {
+            stop();
+        }
+        if(frame==2)
+        {
+            floater(60);
+        }
+        return;
+    }
+
+}
+
+####animationscript function main#####
+# data/chars/billy/jimmy.txt
+########################################
+void main()
+{
+    int frame = getlocalvar("frame");
+    int animhandle = getlocalvar("animhandle");
+    if(animhandle==48)
+    {
+        if(frame==2)
+        {
+            stop();
+        }
+        if(frame==2)
+        {
+            floater(60);
+        }
+        return;
+    }
+    if(animhandle==61)
+    {
+        if(frame==0)
+        {
+            lock();
+        }
+        if(frame==0)
+        {
+            slamstart();
+        }
+        if(frame==0)
+        {
+            position(2, -10, 5, -1, 1);
+        }
+        if(frame==2)
+        {
+            position(2, 20, 20, -1, 1);
+        }
+        if(frame==4)
+        {
+            throw(26, 1, 2, 2, 0, 0);
+        }
+        if(frame==4)
+        {
+            clearSlam();
+        }
+        return;
+    }
+    if(animhandle==64)
+    {
+        if(frame==0)
+        {
+            slamstart();
+        }
+        if(frame==0)
+        {
+            position(2, 7, 0, -1, -1);
+        }
+        if(frame==1)
+        {
+            position(2, 6, 8, -1, -1);
+        }
+        if(frame==2)
+        {
+            position(2, 7, 8, -1, -1);
+        }
+        if(frame==3)
+        {
+            position(2, 7, 8, -1, -1);
+        }
+        if(frame==4)
+        {
+            position(2, 8, 8, -1, -1);
+        }
+        if(frame==5)
+        {
+            depost(0);
+        }
+        if(frame==5)
+        {
+            throw(35, 2, -2.5, 2.5, 0, 0);
+        }
+        if(frame==6)
+        {
+            clearL();
+        }
+        return;
+    }
+    if(animhandle==66)
+    {
+        if(frame==0)
+        {
+            clearL();
+        }
+        return;
+    }
+    if(animhandle==69)
+    {
+        if(frame==0)
+        {
+            stop();
+        }
+        if(frame==0)
+        {
+            floater(10);
+        }
+        if(frame==1)
+        {
+            dasher(5, -3, 0);
+        }
+        return;
+    }
+    if(animhandle==79)
+    {
+        if(frame==2)
+        {
+            stop();
+        }
+        if(frame==2)
+        {
+            floater(60);
+        }
+        return;
+    }
+
+}
+
+####animationscript function main#####
+# data/chars/billy2/billy-double.txt
+########################################
+void main()
+{
+    int frame = getlocalvar("frame");
+    int animhandle = getlocalvar("animhandle");
+    if(animhandle==105)
+    {
+        if(frame==0)
+        {
+            clearL();
+        }
+        return;
+    }
+
+}
+
+####animationscript function main#####
+# data/chars/billy2/billy-knife.txt
+########################################
+void main()
+{
+    int frame = getlocalvar("frame");
+    int animhandle = getlocalvar("animhandle");
+    if(animhandle==108)
+    {
+        if(frame==0)
+        {
+            clearL();
+        }
+        return;
+    }
+
+}
+
+####animationscript function main#####
+# data/chars/billy2/billy-gun.txt
+########################################
+void main()
+{
+    int frame = getlocalvar("frame");
+    int animhandle = getlocalvar("animhandle");
+    if(animhandle==120)
+    {
+        if(frame==0)
+        {
+            clearL();
+        }
+        return;
+    }
+
+}
+
+####animationscript function main#####
+# data/chars/billy2/billy-gatlin.txt
+########################################
+void main()
+{
+    int frame = getlocalvar("frame");
+    int animhandle = getlocalvar("animhandle");
+    if(animhandle==133)
+    {
+        if(frame==0)
+        {
+            clearL();
+        }
+        return;
+    }
+
+}
+
+####animationscript function main#####
+# data/chars/billy/jimmy2.txt
+########################################
+void main()
+{
+    int frame = getlocalvar("frame");
+    int animhandle = getlocalvar("animhandle");
+    if(animhandle==142)
+    {
+        if(frame==0)
+        {
+            clearL();
+        }
+        return;
+    }
+
+}
+
+####animationscript function main#####
+# data/chars/billy/jimmy3.txt
+########################################
+void main()
+{
+    int frame = getlocalvar("frame");
+    int animhandle = getlocalvar("animhandle");
+    if(animhandle==144)
+    {
+        if(frame==0)
+        {
+            clearL();
+        }
+        return;
+    }
+
+}
+
+####animationscript function main#####
+# data/chars/linda2/linda2.txt
+########################################
+void main()
+{
+    int frame = getlocalvar("frame");
+    int animhandle = getlocalvar("animhandle");
+    if(animhandle==201)
+    {
+        if(frame==0)
+        {
+            clearL();
+        }
+        return;
+    }
+    if(animhandle==217)
+    {
+        if(frame==1)
+        {
+            anichange("ANI_FOLLOW2");
+        }
+        return;
+    }
+
+}
+
+####animationscript function main#####
+# data/chars/roper2/roper2.txt
+########################################
+void main()
+{
+    int frame = getlocalvar("frame");
+    int animhandle = getlocalvar("animhandle");
+    if(animhandle==227)
+    {
+        if(frame==1)
+        {
+            anichange("ANI_FOLLOW2");
+        }
+        return;
+    }
+    if(animhandle==232)
+    {
+        if(frame==0)
+        {
+            clearL();
+        }
+        return;
+    }
+
+}
+
+####animationscript function main#####
+# data/chars/will/will.txt
+########################################
+void main()
+{
+    int frame = getlocalvar("frame");
+    int animhandle = getlocalvar("animhandle");
+    if(animhandle==247)
+    {
+        if(frame==1)
+        {
+            anichange("ANI_FOLLOW2");
+        }
+        return;
+    }
+    if(animhandle==252)
+    {
+        if(frame==0)
+        {
+            clearL();
+        }
+        return;
+    }
+
+}
+
+####animationscript function main#####
+# data/chars/will2/will2.txt
+########################################
+void main()
+{
+    int frame = getlocalvar("frame");
+    int animhandle = getlocalvar("animhandle");
+    if(animhandle==265)
+    {
+        if(frame==0)
+        {
+            clearL();
+        }
+        return;
+    }
+    if(animhandle==267)
+    {
+	
+    if(frame==0){
+      void vSelf = getlocalvar("self");
+      int r = rand()%30;
+
+      if(r > 0){
+        changeentityproperty(vSelf, "animation", openborconstant("ANI_FOLLOW6"));
+      }
+    }
+        return;
+    }
+    if(animhandle==282)
+    {
+        if(frame==1)
+        {
+            anichange("ANI_FOLLOW2");
+        }
+        return;
+    }
+
+}
+
+####animationscript function main#####
+# data/chars/daby/daby.txt
+########################################
+void main()
+{
+    int frame = getlocalvar("frame");
+    int animhandle = getlocalvar("animhandle");
+    if(animhandle==307)
+    {
+        if(frame==1)
+        {
+            anichange("ANI_FOLLOW2");
+        }
+        return;
+    }
+
+}
+
+####animationscript function main#####
+# data/chars/daby/daby2.txt
+########################################
+void main()
+{
+    int frame = getlocalvar("frame");
+    int animhandle = getlocalvar("animhandle");
+    if(animhandle==337)
+    {
+        if(frame==1)
+        {
+            anichange("ANI_FOLLOW2");
+        }
+        return;
+    }
+
+}

@@ -1,0 +1,7 @@
+title=pcsx
+description=pcsx
+exec=/media/data/local/home/apps/pcsx/pcsx
+params=-cdfile %f
+icon=skin:icons/pcsx.png
+selectorbrowser=true
+selectordir=/media/roms/roms/psx

@@ -1,0 +1,8 @@
+title=PCENGINE
+consoleapp=true
+description=libretro core mednafen_pce_fast
+exec=/media/roms/.config/apps/RA_changes/RA_changes.sh
+params=%f mednafen_pce_fast_libretro.so
+icon=/media/roms/.config/icons/pcengine.png
+selectorbrowser=true
+selectordir=/media/roms/roms/pcengine

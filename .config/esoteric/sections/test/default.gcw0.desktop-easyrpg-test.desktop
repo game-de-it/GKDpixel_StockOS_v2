@@ -1,0 +1,12 @@
+title=EasyRPG
+description=EasyRPG Player
+icon=/usr/local/home/.esoteric/cache/images/easyrpg-test/easyrpg.png
+exec=/usr/bin/opkrun
+params=-m default.gcw0.desktop "/media/data/apps/easyrpg-test.opk"
+consoleapp=false
+manual=/media/data/local/home/.esoteric/cache/手册/easyrpg/手册.txt
+selectorBrowser=true
+selectorFilter=exe,EXE
+X-Provider=/media/data/apps/easyrpg-test.opk
+X-ProviderMetadata=default.gcw0.desktop
+selectordir=/media

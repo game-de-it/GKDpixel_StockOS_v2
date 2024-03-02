@@ -1,0 +1,10 @@
+title=FBA-44
+description=FBA 0.2.97.44
+icon=/usr/local/home/.esoteric/cache/images/FBA-0-2-97-44-2021-0309/fba_44.png
+exec=/usr/bin/opkrun
+params=-m fba_ux.gcw0.desktop "/media/data/apps/FBA-0-2-97-44-2021-0309.opk"
+consoleapp=false
+manual=/media/data/local/home/.esoteric/cache/手册/fba44/手册.txt
+selectorBrowser=true
+X-Provider=/media/data/apps/FBA-0-2-97-44-2021-0309.opk
+X-ProviderMetadata=fba_ux.gcw0.desktop

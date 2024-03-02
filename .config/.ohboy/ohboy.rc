@@ -1,0 +1,9 @@
+set frameskip 0
+set showfps 0
+set cpuspeed 0
+set romdir "."
+set statesram 1
+set systemmode 0
+set forcedmg 0
+set gbamode 0
+set sndlvl 0

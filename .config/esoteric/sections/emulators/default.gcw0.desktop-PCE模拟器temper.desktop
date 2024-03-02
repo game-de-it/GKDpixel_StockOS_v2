@@ -1,0 +1,10 @@
+title=PCE
+icon=/usr/local/home/.esoteric/cache/images/PCE模拟器temper/PCE.png
+exec=/usr/bin/opkrun
+params=-m default.gcw0.desktop "/media/data/apps/PCE模拟器temper.opk"
+consoleapp=false
+manual=/usr/share/n/cache/手册/pce/手册.txt
+selectorBrowser=true
+X-Provider=/media/data/apps/PCE模拟器temper.opk
+X-ProviderMetadata=default.gcw0.desktop
+selectordir=/media/sdcard/Roms/PCE/pce游戏

@@ -1,0 +1,11 @@
+title=LYNX
+icon=/usr/local/home/.esoteric/cache/images/Handy模拟器/handy.png
+exec=/usr/bin/opkrun
+params=-m default.gcw0.desktop "/media/data/apps/Handy模拟器.opk"
+consoleapp=false
+manual=/media/data/local/home/.esoteric/cache/manuals/Handy模拟器/manual-cn.txt
+selectorBrowser=true
+selectorFilter=zip
+X-Provider=/media/data/apps/Handy模拟器.opk
+X-ProviderMetadata=default.gcw0.desktop
+selectordir=/media/sdcard/Roms/Atari-Lynx

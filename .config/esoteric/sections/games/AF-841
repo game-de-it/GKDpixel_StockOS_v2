@@ -1,0 +1,5 @@
+title=打飞机
+description=打飞机(AF-84)
+icon=/media/roms/apps/af-84/AF-84.png
+exec=/media/roms/apps/af-84/AF-84-sdl-1.2
+selectorbrowser=false

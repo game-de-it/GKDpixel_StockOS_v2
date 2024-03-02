@@ -1,0 +1,11 @@
+title=SMS.GG
+description=menu:SELECT
+icon=/usr/local/home/.esoteric/cache/images/SMS-GG/sms.png
+exec=/usr/bin/opkrun
+params=-m default.gcw0.desktop "/media/data/apps/SMS-GG.opk"
+consoleapp=false
+manual=/usr/local/home/.esoteric/cache/manuals/SMS-GG/readme.txt
+selectorBrowser=true
+X-Provider=/media/data/apps/SMS-GG.opk
+X-ProviderMetadata=default.gcw0.desktop
+selectordir=/media/roms/roms/mastersystem

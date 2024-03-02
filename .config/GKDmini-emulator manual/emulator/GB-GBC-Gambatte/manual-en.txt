@@ -1,0 +1,109 @@
+GB/GBC Simulator GAMBATTE-DMS
+
+Archive directory
+/usr/local/home/.gambatte/saves
+
+
+hot key:
+
+Menu: Menu key/R2
+R1 menu
+L1 acceleration
+
+ 
+ palette file
+------------------------------------
+Palette files are text files with the 
+extension".pal" and its format must be:
+
+0xRRGGBB 0xRRGGBB 0xRRGGBB 0xRRGGBB
+0xRRGGBB 0xRRGGBB 0xRRGGBB 0xRRGGBB
+0xRRGGBB 0xRRGGBB 0xRRGGBB 0xRRGGBB
+
+Each row is a separate 4-color palette
+For each sprite layer, the color order is:
+"white" "light gray" "dark gray" "black".
+
+filter files
+--------------------------------------------
+Filter files are text files with extensions
+".fil" and its format must be:
+
+a1 a2 a3 a4
+b1 b2 b3 b4
+c1 c2 c3 c4
+
+where each value is a decimal number, the range
+Apply from -255 to 255
+GBC colors use the following algorithm:
+
+Rfinal = ((( R*a1 + G*a2 + B*a3 ) >> 8 ) + a4)
+Gfinal = ((( R*b1 + G*b2 + B*b3 ) >> 8 ) + b4)
+Bfinal = ((( R*c1 + G*c2 + B*c3 ) >> 8 ) + c4)
+
+General rule to avoid producing color
+The valid RGB range over 0-255 is
+The sum of 4 values ​​in a row should always be
+between 0-255.
+
+Cheats
+------------------------------------------------
+
+Gambatte supports Game Genie and Game Shark
+Cheats. Each cheat system has its own menu.
+
+Game Genie Cheats:
+------------------------
+
+Game sprite codes can have 6 or 9 digits. them
+Once per application, they can only be
+Disable by exiting the emulator and reloading
+ROM.
+
+To bring in code, go to the Game Genie menu,
+Highlight the line of code and press A to enter 
+editing model. In edit mode you can change
+Use the arrow keys to calculate the value of 
+each number.When done, press A to save changes
+or B to discard them.
+
+If you are introducing 6-digit codes, please leave
+The last 3 digits are zero, your code will
+is detected as a 6-digit code. if all numbers are
+Zero, the code is ignored.
+
+Up to 20 lines are used to introduce several
+Code now if needed.
+
+To apply a cheat, press start, then
+Press A to confirm the action. code will
+then being applied, the code list will be
+Clear.
+
+Cheat codes are not saved when the emulator exits.
+
+Game Shark Cheats:
+------------------------
+
+The game shark code has 8 digits. they can
+Enable and disable at any time.
+
+To import code, go to the Game Shark menu,
+Highlight the line of code and press A to enter 
+editing model. In edit mode you can change
+Use the arrow keys to calculate the value of 
+each number. When done, press A to save changes
+or B to discard them.
+
+This code is ignored if all numbers are zero.
+
+Up to 20 lines are used to introduce several
+code.
+
+To enable cheats, select
+the left side of the code, then press A to toggle
+Want cheats on and off. empty slot means
+Cheat codes are disabled without a check mark
+Indicates enabled.
+
+Cheat codes are not saved when the emulator exits.

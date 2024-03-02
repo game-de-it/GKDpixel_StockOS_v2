@@ -1,0 +1,10 @@
+title=GG
+icon=/usr/local/home/.esoteric/cache/images/GG/gg.png
+exec=/usr/bin/opkrun
+params=-m default.gcw0.desktop "/media/data/apps/GG.OPK"
+consoleapp=false
+manual=/usr/local/home/.esoteric/cache/manuals/GG/readme.txt
+selectorBrowser=true
+X-Provider=/media/data/apps/GG.OPK
+X-ProviderMetadata=default.gcw0.desktop
+selectordir=/media/sdcard/Roms/SMS

@@ -1,0 +1,10 @@
+title=斑鸠
+description=Shoot-them up clone
+icon=/usr/local/home/.esoteric/cache/images/斑鸠-test/ikaruga.png
+exec=/usr/bin/opkrun
+params=-m default.gcw0.desktop "/media/data/apps/斑鸠-test.opk"
+consoleapp=false
+manual=/usr/share/n/cache/手册/nkaruga斑鸠/手册.txt
+selectorBrowser=true
+X-Provider=/media/data/apps/斑鸠-test.opk
+X-ProviderMetadata=default.gcw0.desktop

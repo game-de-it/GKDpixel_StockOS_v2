@@ -1,0 +1,27 @@
+XMAME
+*出现黑底白字，左右左方向键进入；
+部分游戏会黑屏3-4分钟为正常（如武装飞鸟2）
+
+游戏内MAME按键：
+D-Pad: 上下左右
+A,B,X,Y,L,R: 按键 1,2,3,4,5,6
+SELECT+R: 投币
+SELECT+L: 开始
+SELECT+L+R: 退出
+
+L+R: 暂停
+START+R: 显示帧数
+START+L+R: 菜单. 定义键, 自动点火, 更多
+SELECT+Down: 截图
+SELECT+Left: 存档
+SELECT+Right: 读档
+
+前端按键
+D-Pad：上，下移动ROM选择
+D-Pad：左，右移动ROM，按页选择
+start：刷新ROM列表
+select：退出
+L:过滤ROM列表,在可用游戏、可用克隆、收藏夹和所有游戏之间切换
+R：切换0.69,0.84
+A：开始
+X:添加rom到收藏夹

@@ -1,0 +1,16 @@
+# 350teric X-tended desktop file
+# lines starting with a # are ignored
+
+title=方块拼图
+description=
+icon=/usr/local/home/.esoteric/cache/images/方块拼图/tt.png
+exec=/usr/bin/opkrun
+params=-m default.gcw0.desktop "/media/data/apps/方块拼图.opk"
+selectorDir=
+selectorFilter=
+selectorAlias=
+manual=/usr/local/home/.esoteric/cache/manuals/方块拼图/README.md
+workdir=
+X-Provider=/media/data/apps/方块拼图.opk
+X-ProviderMetadata=default.gcw0.desktop
+consoleapp=false

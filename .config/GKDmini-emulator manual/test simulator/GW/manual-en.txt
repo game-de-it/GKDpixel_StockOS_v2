@@ -1,0 +1,6 @@
+GW emulator
+Arrow keys left and right to 
+select a game and press A to enter
+start to start, press A to play
+selectreset
+Power button to exit

@@ -1,0 +1,4 @@
+title=dmesg
+description=dmesg to /media/roms/roms/dmesg.txt
+exec=/bin/dmesg>/media/roms/roms/dmesg.txt
+icon=/media/roms/.config/icons/dmesg.png

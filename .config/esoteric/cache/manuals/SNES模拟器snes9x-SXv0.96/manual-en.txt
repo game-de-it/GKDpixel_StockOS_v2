@@ -1,0 +1,47 @@
+snen9x-SX Emulator for SNES&SFC
+SX port for GKD350H Version 0.96
+
+快捷键说明
+Select+L 打开/关闭加速模式
+Start+L 快速保存(8号存档)
+Start+R 快速读取(8号存档)
+
+图像设置说明
+智能调整：根据实际图像大小确定是否需要拉伸
+单倍显示：始终按照标准大小显示
+全屏显示：整个屏幕显示
+水平拉伸：仅进行水平方向的拉伸
+
+如果有游戏显示不正常，试着设置里面把“允许无效内存访问”改为“是”
+		
+定制说明
+1，定制游戏非全屏显示时的背景图片 
+ 1）大小 320*240的png格式16位色图片
+ 2）文件名为back.png（大小写保持一致）
+ 3）放在/usr/local/home/.snes9x-sx 目录下面即可
+2，金手指定制方法，目前系统开放了金手指定制能力，需要手工设置金手指文件	
+ 1）首先在PC上使用snes9x1.60版本生成金手指文件	
+ 2）文件名称与游戏相同，后缀为.cht(例如 最终幻想6.cht)
+ 3）金手指文件需要使用UTF-8编码，否则在模拟器中的金手指名称中文可能乱码
+ 4）金手指文件需要放在/usr/local/home/.snes9x-sx/cheat 目录下面
+ 5）模拟器中进入金手指设置中选择打开对应的金手指，游戏中就会立即生效
+
+
+	   
+
+	 
+
+base on Snes9x 1.60
+- Fixed subscreen blending with master brightness < 100%.
+- Fixed NMI timing when toggling enable bit. Fixes Chou Aniki--hack removed.
+- Reverted an IPL map optimization that misses a weird edge case that caused
+  The Great Battle III to lock up.
+- Clamp MSU1 addition to max amplitude instead of wrapping. Proper MSU1 tracks
+  will not be affected by this.
+- Save mipmap_input parameter with customized GLSL and slang shaders.
+- Actually use mipmap_input parameter.
+- Optimized subscreen math with help from Dwedit.
+- Revert to measured APU clock speed instead of nominal speed. Fixes An
+  American Tail.
+- Fixed broken BPS patch support. (ArtiiP)
+- Fixed MSU1 track restarting on load state.

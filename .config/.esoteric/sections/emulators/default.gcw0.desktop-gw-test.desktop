@@ -1,0 +1,10 @@
+title=G&W
+description=Game&Watch emulator
+icon=/usr/local/home/.esoteric/cache/images/gw-test/gameandwatch.png
+exec=/usr/bin/opkrun
+params=-m default.gcw0.desktop "/media/data/apps/gw-test.opk"
+consoleapp=false
+manual=/media/data/local/home/GKDmini-emulator manual/test simulator/GW/manual-en.txt
+selectorBrowser=true
+X-Provider=/media/data/apps/gw-test.opk
+X-ProviderMetadata=default.gcw0.desktop

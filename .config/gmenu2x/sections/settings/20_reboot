@@ -1,0 +1,9 @@
+title=Reboot
+description=Reboot
+launchmsg=Rebooting
+icon=skin:icons/reboot.png
+exec=/sbin/reboot
+editable=false
+con=skin:icons/reboot.png
+exec=/sbin/reboot
+editable=false

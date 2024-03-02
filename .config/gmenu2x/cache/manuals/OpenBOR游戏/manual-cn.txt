@@ -1,0 +1,9 @@
+OpenBOR [http://www.chronocrash.com] RG350H专用
+
+
+
+默认目录
+===================
+* PAK 文件: /media/roms/apps/OpenBOR/Paks
+* 存档文件: /data/local/home/.OpenBOR/Saves
+* 日志文件: /data/local/home/.OpenBOR/Logs 

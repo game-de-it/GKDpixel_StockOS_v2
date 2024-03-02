@@ -1,0 +1,20 @@
+[ABOUT]
+Inspired by "Missiles!", Homing Fever is an addictive obstacle dodging game.
+
+The goal of Homing Fever is to avoid missiles and stay alive as long as you can.
+
+[AUTHOR]
+* Artur Rojek (zear)
+
+[CHANGELOG]
+* v0.1.0 (2016/08/13)
+- Original game release for GCW Zero
+
+[SETUP]
+Game options can be adjusted by editing a config file located at:
+$HOME/.homingFever/game.cfg
+
+[LICENSES]
+* Source code - MIT License - https://github.com/zear/HomingFever
+* Graphics - CC0 1.0 Universal - https://creativecommons.org/publicdomain/zero/1.0/
+* Fonts - CC0 1.0 Universal

@@ -1,0 +1,16 @@
+# IUX X-tended desktop file
+# lines starting with a # are ignored
+
+title=GKD350 update
+description=GKD350 update v26
+icon=/usr/local/home/.esoteric/cache/images/gkdmini-iux-logo/gkd350_update.png
+exec=/usr/bin/opkrun
+params=-m default.gcw0.desktop "/media/data/apps/gkdmini-iux-logo.opk"
+selectorDir=
+selectorFilter=
+selectorAlias=
+manual=
+workdir=
+X-Provider=/media/data/apps/gkdmini-iux-logo.opk
+X-ProviderMetadata=default.gcw0.desktop
+consoleapp=true

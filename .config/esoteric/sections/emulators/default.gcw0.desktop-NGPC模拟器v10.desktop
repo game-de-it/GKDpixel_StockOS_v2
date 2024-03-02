@@ -1,0 +1,10 @@
+title=NGPC
+icon=/usr/local/home/.esoteric/cache/images/NGPC模拟器v10/ngpcemu.png
+exec=/usr/bin/opkrun
+params=-m default.gcw0.desktop "/media/data/apps/NGPC模拟器v10.opk"
+consoleapp=false
+manual=/media/data/local/home/.esoteric/cache/manuals/NGPC模拟器v10/manual-cn.txt
+selectorBrowser=true
+X-Provider=/media/data/apps/NGPC模拟器v10.opk
+X-ProviderMetadata=default.gcw0.desktop
+selectordir=/media/sdcard/Roms/NGPC

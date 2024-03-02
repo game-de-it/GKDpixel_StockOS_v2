@@ -1,0 +1,11 @@
+title=PS
+description=Sony PSX emulator V6.6.6
+icon=/usr/local/home/.esoteric/cache/images/PS模拟器pcsx4all_CC_6.6.6/pcsxr-icon-small.png
+exec=/usr/bin/opkrun
+params=-m default.gcw0.desktop "/media/data/apps/PS模拟器pcsx4all_CC_6.6.6.opk"
+consoleapp=false
+manual=/usr/share/n/cache/手册/ps/手册.txt
+selectorBrowser=true
+X-Provider=/media/data/apps/PS模拟器pcsx4all_CC_6.6.6.opk
+X-ProviderMetadata=default.gcw0.desktop
+selectordir=/media/sdcard/Roms/PS

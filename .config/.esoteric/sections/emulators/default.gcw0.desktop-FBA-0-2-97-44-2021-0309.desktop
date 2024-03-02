@@ -1,0 +1,10 @@
+title=FBA 44
+description=Version FBA44,supporting the cheat code
+icon=/usr/local/home/.esoteric/cache/images/FBA-0-2-97-44-2021-0309/fba_44.png
+exec=/usr/bin/opkrun
+params=-m default.gcw0.desktop "/media/data/apps/FBA-0-2-97-44-2021-0309.opk"
+consoleapp=false
+manual=/media/data/local/home/GKDmini-emulator manual/emulator/FBA-44/manual-en.txt
+selectorBrowser=true
+X-Provider=/media/data/apps/FBA-0-2-97-44-2021-0309.opk
+X-ProviderMetadata=default.gcw0.desktop

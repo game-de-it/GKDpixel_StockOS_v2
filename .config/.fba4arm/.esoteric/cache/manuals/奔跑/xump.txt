@@ -1,0 +1,159 @@
+Xump v1.00 by Retroguru [ July 2014 ]
+h t t p : / / w w w . r e t r o g u r u . c o m
+
+! L I C E N S E :
+
+Xump is FREEWARE. All rights remain within the development team.
+
+No money in any form should be charged for the game. Distribution 
+on third party pages is acceptable if you link to www.retroguru.com. 
+Distribution on compilations, CD's, DVD's or other media is only
+allowed with a written permission. Contact information is available
+on the Retroguru homepage.
+
+! A B O U T :
+
+Xump is a simple one screen puzzle game initially released in 2005
+by Psilocybin Development. This overhaul by Retroguru is a rewrite
+featuring new graphics, new levels, new music... simply new 
+everything. 
+
+If you enjoy the game you can consider a donation, which will help
+to fund our next project. Thanks a lot in advance :)
+
+! S T O R Y :
+
+Help Xump and his human master Holger to disarm mines on fields
+located somewhere above our atmosphere. Collect coins by destroying
+fields or mines but do not fall of the playing field.
+
+! C O N T R O L S :
+
+Default controls: 
+UP = D-PAD UP 
+DOWN= D-PAD DOWN
+LEFT= D-PAD LEFT
+RIGHT = D-PAD RIGHT 
+PAUSE = START
+
+Use the ingame menue to change keyboard, joystick or joypad behaviour.
+The supported devices very much rely on the operating system and your
+hardware.
+
+! C H A N G E L O G : 
+
+* v1.00
+- Fixes
+- readme.txt corrections (spelling, design, ...)
+- Secret Easteregg: Play the classic Xump levels with music from ne7 
+
+* v0.90
+- First public release (Wiz only!)
+for tUM 2013 game development competition 
+http://2013.tum-party.net/
+
+! C O R E - T E A M :
+
+* Lars Persson (AnotherGuest) 
+- Code, Beta-Testing 
+http://anotherguest.se
+
+* Andre Haensel (kedo)
+- Code
+http://planetkedo.de
+
+* Christian Hildenbrand (Daydream)
+- Character Design, Alternative Themes, Tiles
+http://2dgameartforprogrammers.blogspot.co.at 
+
+* Virgile Metier (thUg) 
+- Graphics, Pixel Theme (default)
+http://www.thug-inc.com
+
+* Johan Letfors (vedder)
+- Music
+https://soundcloud.com/johanletfors
+
+* Andrew Lemon (ne7) 
+- Sound effects, ASCII Art, Music
+http://ne7.untergrund.net
+
+* Unknown
+- Fonts
+
+* Denny Mueller (Mulle) 
+- Levels, Beta-Testing, Trailer
+http://www.red-aqua-media.de
+
+* Shahzad Sahaib (Kojote)
+- Levels, Project Management, Beta-Testing
+http://www.pdroms.de
+
+! P O R T S :
+
+* Lars Persson (AnotherGuest) 
+- Win32, Symbian OS UIQ 3, Symbian OS Series 60 
+
+* Rodolphe Boixel (Thor)
+- Ubuntu (32-Bit, Ubuntu (64-Bit), Playstation Portable, Wiz
+http://thor.pdroms.de 
+
+* Frank Wille (phx)
+- Amiga OS4, MorphOS, NetBSD x86, NetBSD PPC 
+http://sun.hasenbraten.de/~frank/ 
+
+* Scott Smith (pickle)
+- Pandora, Caanoo, GP2x 
+http://boards.openpandora.org/index.php?/user/69-pickle/
+
+* Xavier Vallejo (Indiket) 
+Dreamcast, Mac OS X x86
+http://www.dreamcast.es
+
+* Sergei Kolesnikov (Exl)
+MotoMAGX
+http://exlmoto.ru
+
+* Artur Rojek (zear) 
+GCW Zero, Dingoo A320 OpenDingux
+http://www.unnamedmonkeygame.com
+
+* James Higgs (Jum)
+Raspberry Pi 
+http://jum.pdroms.de
+
+* Yannick Erb (Yannickescu)
+AROS
+http://www.dusabledanslherbe.eu/AROSPage/
+
+! H E L P I N G  H A N D S :
+
+* Jan Jensen (Farfly)
+- Additional Tiles
+http://www.janart.dk
+
+* Benjamin Klueter (Squirrelsquid)
+- Additional Tiles, Additional Logo 
+http://www.pixeljoint.com/p/1889.htm
+
+! T H I R D  P A R T Y  C R E D I T S : 
+
+We use SDL, SDL_Mixer, libmodplug and zlib. Consult and visit: 
+
+http://www.libsdl.org
+http://www.libsdl.org/projects/SDL_mixer
+http://modplug-xmms.sourceforge.net/
+http://www.zlib.net/ 
+
+The "Scale2x" function used for antialias is an own recoded 
+implementation by Yannick Erb and does not use the original GPL'ed
+code. You may want to check this page for more information on
+Scale2x: http://scale2x.sourceforge.net
+
+Please kindly note "scale2x", "bilinear antialias" and "scanlines",
+once activated, will intense CPU usage and might lead to slowdowns
+and higher energy consumption, which therefore will decrease battery 
+life on portable devices. Availability of these functions is OS
+depending.
+
+[END OF FILE]

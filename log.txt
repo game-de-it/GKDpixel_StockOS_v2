@@ -1,0 +1,5 @@
+Settings host
+brightness: 2 (hdmi: 0)
+speaker: 8 (jack: 0)
+2019-10-18 18:39:19
+Fri Oct 18 16:39:19 UTC 2019

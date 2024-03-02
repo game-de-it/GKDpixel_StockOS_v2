@@ -1,0 +1,13 @@
+title=DOS
+description=菜单键:双S键 键盘:L1 鼠标:R1
+icon=/usr/local/home/.esoteric/cache/images/Dos模拟器dosbox-v11/dosbox.png
+exec=/usr/bin/opkrun
+params=-m default.gcw0.desktop "/media/data/apps/Dos模拟器dosbox-v11.opk"
+consoleapp=false
+manual=/usr/share/n/cache/手册/dos/手册.txt
+selectorBrowser=true
+selectorFilter=BAT
+X-Provider=/media/data/apps/Dos模拟器dosbox-v11.opk
+X-ProviderMetadata=default.gcw0.desktop
+clock=Level 3
+selectordir=/media/sdcard/Roms/DOS

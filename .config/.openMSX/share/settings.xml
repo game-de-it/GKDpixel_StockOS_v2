@@ -1,0 +1,10 @@
+<!DOCTYPE settings SYSTEM 'settings.dtd'>
+<settings>
+  <settings>
+    <setting id="invalid_psg_directions_callback">psgdirectioncallback</setting>
+    <setting id="di_halt_callback">dihaltcallback</setting>
+    <setting id="horizontal_stretch">256.0</setting>
+    <setting id="master_volume">100</setting>
+  </settings>
+  <bindings/>
+</settings>

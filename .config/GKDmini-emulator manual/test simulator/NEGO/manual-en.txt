@@ -1,0 +1,13 @@
+NEO Simulator
+
+LOAD GAME to enter the game directory
+OPTLION settings
+EXIT to exit
+
+Press start+select in the game to call 
+out the menu
+
+If you encounter a game directory error, 
+return to other directories and change it 
+as follows
+/media/roms/roms/fba/neogeo/

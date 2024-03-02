@@ -1,0 +1,8 @@
+title=梦时空
+description=仙剑奇侠传梦时空3.5
+icon=/media/roms/apps/sdl-palmsk/icon-32.png
+exec=/media/roms/apps/sdl-palmsk/sdlpal.dge
+consoleapp=true
+manual=/usr/share/n/cache/手册/仙剑/手册.txt
+selectorbrowser=false
+selectorbrowser=false

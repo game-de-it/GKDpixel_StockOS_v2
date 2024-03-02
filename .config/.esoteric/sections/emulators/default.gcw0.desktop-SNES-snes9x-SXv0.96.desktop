@@ -1,0 +1,11 @@
+title=SFC.Snes sx
+description=menu:menu key/Fast forward:select+L
+icon=/usr/local/home/.esoteric/cache/images/SNES-snes9x-SXv0.96/Snes.png
+exec=/usr/bin/opkrun
+params=-m default.gcw0.desktop "/media/data/apps/SNES-snes9x-SXv0.96.opk"
+consoleapp=false
+manual=/media/data/local/home/GKDmini-emulator manual/emulator/SNES-snes9x-SXv0.96/manual-en.txt
+selectorBrowser=true
+X-Provider=/media/data/apps/SNES-snes9x-SXv0.96.opk
+X-ProviderMetadata=default.gcw0.desktop
+selectordir=/media/roms/roms/snes

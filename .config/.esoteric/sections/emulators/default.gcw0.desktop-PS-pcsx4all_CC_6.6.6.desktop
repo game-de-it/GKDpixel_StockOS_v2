@@ -1,0 +1,12 @@
+title=PSX
+description=menu:menu key/Fast forward:select+x/Save read:select+L/R
+icon=/usr/local/home/.esoteric/cache/images/PS-pcsx4all_CC_6.6.6/pcsxr-icon-small.png
+exec=/usr/bin/opkrun
+params=-m default.gcw0.desktop "/media/data/apps/PS-pcsx4all_CC_6.6.6.opk"
+consoleapp=false
+manual=/media/data/local/home/GKDmini-emulator manual/emulator/PSX/manual-en.txt
+selectorbrowser=false
+X-Provider=/media/data/apps/PS-pcsx4all_CC_6.6.6.opk
+X-ProviderMetadata=default.gcw0.desktop
+selectordir=/media/roms/roms/psx
+selectorbrowser=false

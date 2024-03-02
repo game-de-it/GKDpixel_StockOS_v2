@@ -1,0 +1,61 @@
+FC Simulator
+
+Archive directory /usr/local/home/.fceux/Sav
+cheats directory /usr/local/home/.fceux/cheats
+Screenshot directory /usr/local/home/.fceux/snaps
+
+This version integrates the sinicization and 
+golden finger functions provided by CJS. thanks~
+1. The menu is localized and beautified.
+2. Added Chinese Gold Finger function.
+3. Support vibration.
+
+Shortcut key: right menu key
+
+L2 fast forward
+R2 Quickly switch aspect ratio
+
+The screen shows the selection experience:
+Aspect: The display is the most perfect although 
+not full screen
+fs fast: display full screen best
+
+select + start to exit the game
+
+Display frame rate on R1 +
+R1 + start emulator pauses
+R1 + select screenshot
+
+Tips: The background music of Super Mario is too 
+fast, you can change it in the menu options /
+Advanced settings/main options/PAL video 
+broadcasting system is changed to ON and it 
+is normal
+
+
+The cheat files are stored in .fceux/cheats 
+in the following format:
+
+[number of lives]
+ON=46,9
+
+[Invincible when flying]
+ON=E7A,3
+
+[Unlimited energy in the fortress]
+ON=DE7,FF;DE9,FF
+
+[9 bundles in the fortress]
+ON=DED,9;DEC,9
+
+[GameInfo]
+Name=Air Fortress (U)
+System=FC
+Text=Air Fortress (U), air battle (air fortress)
+(US version), to smash the enemy's central 
+computer and the mechanical army it operates
+A shooting program launched by the regiment. 
+The mazes in the game are very complicated. 
+
+
+

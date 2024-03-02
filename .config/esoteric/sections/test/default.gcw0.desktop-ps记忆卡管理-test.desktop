@@ -1,0 +1,10 @@
+title=PS记忆卡
+description=ps memory card
+icon=/usr/local/home/.esoteric/cache/images/ps记忆卡管理-test/pcsxr-icon-small.png
+exec=/usr/bin/opkrun
+params=-m default.gcw0.desktop "/media/data/apps/ps记忆卡管理-test.opk"
+consoleapp=false
+manual=/usr/share/n/cache/手册/ps记忆卡管理/手册.txt
+selectorBrowser=true
+X-Provider=/media/data/apps/ps记忆卡管理-test.opk
+X-ProviderMetadata=default.gcw0.desktop

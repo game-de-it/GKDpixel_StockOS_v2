@@ -1,0 +1,16 @@
+# IUX X-tended desktop file
+# lines starting with a # are ignored
+
+title=Input tester
+description=Input tester
+icon=/usr/local/home/.esoteric/cache/images/按键测试器/input-test-sdl1.png
+exec=/usr/bin/opkrun
+params=-m jstester-1.2.gcw0.desktop "/media/data/apps/按键测试器.opk"
+selectorDir=
+selectorFilter=
+selectorAlias=
+manual=
+workdir=
+X-Provider=/media/data/apps/按键测试器.opk
+X-ProviderMetadata=jstester-1.2.gcw0.desktop
+consoleapp=false

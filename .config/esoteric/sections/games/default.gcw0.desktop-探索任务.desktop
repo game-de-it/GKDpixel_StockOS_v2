@@ -1,0 +1,16 @@
+# 350teric X-tended desktop file
+# lines starting with a # are ignored
+
+title=探索任务
+description=
+icon=/usr/local/home/.esoteric/cache/images/探索任务/icon_32x32.png
+exec=/usr/bin/opkrun
+params=-m default.gcw0.desktop "/media/data/apps/探索任务.opk"
+selectorDir=
+selectorFilter=
+selectorAlias=
+manual=
+workdir=
+X-Provider=/media/data/apps/探索任务.opk
+X-ProviderMetadata=default.gcw0.desktop
+consoleapp=false

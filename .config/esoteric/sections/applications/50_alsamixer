@@ -1,0 +1,6 @@
+title=ALSA mixer
+description=Alsa mixer
+icon=skin:icons/alsamixer.png
+exec=/usr/bin/alsamixer
+params=
+consoleapp=true

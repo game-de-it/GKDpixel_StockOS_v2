@@ -1,0 +1,61 @@
+mGBA-SX emulator
+Support includes GB/GBC/GBA games
+Support cheat and background customization 
+functions.If you like it, please click "Support" 
+in the system menu
+
+Note: MGBA has certain requirements for machine 
+performance, and overclocking is smoother
+
+Tip: Parameter setting/zoom mode changed to off 
+to point-to-point display
+
+Goldfinger added instructions:
+1. Rename the found cheat file to the same name 
+   as the game name,The extension is .cheats, 
+   for example the game name is: My Sun.gba Then 
+   the golden finger is called: my sun.cheats
+2. Put the cheat file in /usr/local/home/ of the 
+   game console.mgba_sx/cheats directory, and 
+   then enter the game to have the corresponding
+   Gold finger function
+3. The reference files are in the ROMS/GKDmini 
+   document 
+   Archive path /usr/local/home/.mgba_sx/savegame 
+   quick save path /usr/local/home/.mgba_sx/savestate 
+   cheats directory /usr/local/home/.mgba_sx/cheats
+
+Background customization instructions:
+1. Currently supports customization: setting page 
+   background, GB, GBA incomplete The background 
+   of the screen game, all files need a png with 
+   a size of 320*240
+2. The background file name of the system 
+   settings page is: back.png
+3. The GBA game background file name is: 
+   gbaback.png
+4. The name of the GB game background file is: 
+   gbback.png
+5. Put your customized files in /usr/local/home
+   /.mgba_sx
+   You can see the effect in the directory
+6. When not customized, the background image 
+   that comes with the system will be used
+
+possible problems
+1. The cheat file displays garbled characters or 
+   blurry screen: please tell the cheat file 
+   transfer Change to UTF-8 encoding
+2. The content of cheats is overlapped: please 
+   correspond to cheat files in this case.shorten 
+   the project name
+3. The custom background image is not displayed 
+   normally: please confirm that the color depth 
+   of the background image is 32bit, otherwise 
+   it will not display properly
+4. Kirby Star-Dream Fountain game stuck: after 
+   opening the game, there is nothing in the 
+   title Do not press any function keys and 
+   direction keys until the playback is over
+5. Some games are very slow: you can overclock, 
+   generally level 5 can be smoother

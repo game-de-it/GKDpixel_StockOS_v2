@@ -1,0 +1,12 @@
+title=GBA/GB/GBC
+icon=/usr/local/home/.esoteric/cache/images/GBA模拟器mGBA-SX1.0/mgbasx.png
+exec=/usr/bin/opkrun
+params=-m default.gcw0.desktop "/media/data/apps/GBA模拟器mGBA-SX1.0.opk"
+consoleapp=false
+manual=/media/data/local/home/.esoteric/cache/manuals/GBA模拟器mGBA-SX1.0/manual-cn.txt
+selectorBrowser=true
+selectorFilter=zip,gb,gbc,gba
+X-Provider=/media/data/apps/GBA模拟器mGBA-SX1.0.opk
+X-ProviderMetadata=default.gcw0.desktop
+clock=Level 5
+selectordir=/media/sdcard/Roms/GBA

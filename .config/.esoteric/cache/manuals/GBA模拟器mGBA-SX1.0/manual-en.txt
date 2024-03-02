@@ -1,0 +1,27 @@
+mGBA-SX 是GB/GBC/GBA模拟器，当前版本1.0，支持金手指和背景定制功能。
+
+喜欢请点击系统菜单中的 “支持一下”
+
+金手指添加说明：
+1，根据游戏名称在发布包中的<350h金手指.zip>文件中找到相应英文名称的文件
+2，将找到金手指文件改名与游戏名称一样的名字，扩展名 .cheats， 例如游戏名称为: 我的太阳.gba 那么金手指就叫: 我的太阳.cheats
+3，将金手指文件放在游戏机的/usr/local/home/.mgba_sx/cheats 目录中，然后进入游戏就有相应的金手指功能
+
+背景定制说明：
+1，目前支持定制的有：设置页面背景、GB、GBA非全屏游戏时的背景，所有文件需要大小为320*240的png文件
+2，系统设置页面背景文件名称为：back.png
+3，GBA游戏背景文件名称为：gbaback.png
+4，GB游戏背景文件名称为：gbback.png
+5，将自己定制的文件放在/usr/local/home/.mgba_sx目录中就可以看到效果
+6，不定制的时候将使用系统自带的背景图
+
+可能碰到的问题
+1，金手指文件显示乱码或者花屏：请讲金手指文件转换为UTF-8编码
+2，金手指内容显示重叠：这时请将金手指文件中对应项目的名称改短一些
+3，定制背景图显示不正常：请确认背景图的色深为32位，否则无法正常显示
+4，星之卡比-梦之泉游戏卡死：打开游戏后在片头没有播放完之前不要按任何功能按键和方向键
+5，有的游戏很慢：可以打开350H的性能模式，一般5级就可以比较流畅了
+6，如何像之前那样有BIOS启动画面：请将发布包中的<GB系列bios.rar>文件解压后放在/usr/local/home/.config/mgba目录下面，就会有bios启动画面了
+
+- base on mGBA version 0.90, 2020-7-10
+mGBA is an emulator for running Game Boy Advance games. It also supports Game Boy and Game Boy Color games.It aims to be faster and more accurate than many existing Game Boy Advance emulators, as well as adding features that other emulators lack. 

@@ -1,0 +1,16 @@
+# 350teric X-tended desktop file
+# lines starting with a # are ignored
+
+title=城堡冒险
+description=
+icon=/usr/local/home/.esoteric/cache/images/城堡冒险/icon.png
+exec=/usr/bin/opkrun
+params=-m default.gcw0.desktop "/media/data/apps/城堡冒险.opk"
+selectorDir=
+selectorFilter=
+selectorAlias=
+manual=/usr/local/home/.esoteric/cache/manuals/城堡冒险/README.TXT
+workdir=
+X-Provider=/media/data/apps/城堡冒险.opk
+X-ProviderMetadata=default.gcw0.desktop
+consoleapp=false

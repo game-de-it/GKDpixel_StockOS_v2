@@ -1,0 +1,11 @@
+title=MD/SMS/GG
+description=Genesis for GKDMINI
+icon=/usr/local/home/.esoteric/cache/images/MD模拟器genplus-sxv0.91/genes.png
+exec=/usr/bin/opkrun
+params=-m default.gcw0.desktop "/media/data/apps/MD模拟器genplus-sxv0.91.opk"
+consoleapp=false
+manual=/media/data/local/home/.esoteric/cache/manuals/MD模拟器genplus-sxv0.91/manual-cn.txt
+selectorBrowser=true
+X-Provider=/media/data/apps/MD模拟器genplus-sxv0.91.opk
+X-ProviderMetadata=default.gcw0.desktop
+selectordir=/media/sdcard/Roms/MD

@@ -1,0 +1,165 @@
+MINUI
+--------
+MinUI                   a42c4f46  shauninman/MinUI
+
+TOOLCHAINS
+--------
+gkdpixel-toolchain      0bb473ba  shauninman/union-gkdpixel-toolchain
+m17-toolchain           385666e4  shauninman/union-m17-toolchain
+miyoomini-toolchain     90ce1ec3  shauninman/union-miyoomini-toolchain
+rg35xx-toolchain        cd2bf2b5  shauninman/union-rg35xx-toolchain
+rg35xxplus-toolchain    3dceb6e6  shauninman/union-rg35xxplus-toolchain
+rgb30-toolchain         75525c03  shauninman/union-rgb30-toolchain
+tg5040-toolchain        f9eee1a6  shauninman/union-tg5040-toolchain
+trimui-toolchain        53663b6f  shauninman/union-trimui-toolchain
+trimuismart-toolchain   32c62ac5  shauninman/union-trimuismart-toolchain
+
+LIBRETRO
+--------
+libretro-common         67df6b8b  libretro/libretro-common
+
+RG35XX
+--------
+DinguxCommander         2b8b2904  shauninman/DinguxCommander
+CORES
+beetle-pce-fast         69d93f14  libretro/beetle-pce-fast-libretro
+beetle-vb               dd6393f7  libretro/beetle-vb-libretro
+fake-08                 8594cfd2  jtothebell/fake-08
+fceumm                  a3af9f1a  libretro/libretro-fceumm
+gambatte                c21b9fb8  libretro/gambatte-libretro
+gpsp                    541adc9e  libretro/gpsp
+mednafen_supafaust      75c658cc  libretro/supafaust
+mgba                    a69c3434  libretro/mgba
+pcsx_rearmed            4373e29d  libretro/pcsx_rearmed
+picodrive               c7e1c39b  irixxxx/picodrive
+pokemini                9ba2c2d9  libretro/PokeMini
+race                    f65011e6  libretro/race
+snes9x2005_plus         fd45b0e0  libretro/snes9x2005
+
+MIYOOMINI
+--------
+DinguxCommander         5e600602  shauninman/DinguxCommander
+sdl                     c57a554b  shauninman/SDL-1.2
+CORES
+beetle-pce-fast         69d93f14  libretro/beetle-pce-fast-libretro
+beetle-vb               dd6393f7  libretro/beetle-vb-libretro
+fake-08                 8594cfd2  jtothebell/fake-08
+fceumm                  a3af9f1a  libretro/libretro-fceumm
+gambatte                c21b9fb8  libretro/gambatte-libretro
+gpsp                    541adc9e  libretro/gpsp
+mednafen_supafaust      75c658cc  libretro/supafaust
+mgba                    a69c3434  libretro/mgba
+pcsx_rearmed            4373e29d  libretro/pcsx_rearmed
+picodrive               c7e1c39b  irixxxx/picodrive
+pokemini                9ba2c2d9  libretro/PokeMini
+race                    f65011e6  libretro/race
+snes9x2005_plus         fd45b0e0  libretro/snes9x2005
+
+TRIMUISMART
+--------
+DinguxCommander         f86496b1  shauninman/DinguxCommander
+unzip60                 f6389e3a  shauninman/unzip60
+CORES
+beetle-pce-fast         a53a9df3  libretro/beetle-pce-fast-libretro
+beetle-vb               dd6393f7  libretro/beetle-vb-libretro
+fake-08                 8594cfd2  jtothebell/fake-08
+fceumm                  a3af9f1a  libretro/libretro-fceumm
+gambatte                b1315916  libretro/gambatte-libretro
+gpsp                    bd39c039  libretro/gpsp
+mednafen_supafaust      75c658cc  libretro/supafaust
+mgba                    a69c3434  libretro/mgba
+pcsx_rearmed            4373e29d  libretro/pcsx_rearmed
+picodrive               ae9a76c9  irixxxx/picodrive
+pokemini                9ba2c2d9  libretro/PokeMini
+race                    f65011e6  libretro/race
+snes9x2005_plus         fd45b0e0  libretro/snes9x2005
+
+RGB30
+--------
+DinguxCommander         b60f06a5  shauninman/DinguxCommander
+CORES
+beetle-ngp              673c3d92  libretro/beetle-ngp-libretro
+beetle-pce-fast         d7c1553d  libretro/beetle-pce-fast-libretro
+beetle-vb               732a8f70  libretro/beetle-vb-libretro
+fake-08                 8594cfd2  jtothebell/fake-08
+fceumm                  a3af9f1a  libretro/libretro-fceumm
+gambatte                9574b6ef  libretro/gambatte-libretro
+gpsp                    1d1c7193  libretro/gpsp
+mednafen_supafaust      6b639c98  libretro/supafaust
+mgba                    314bf7b6  libretro/mgba
+pcsx_rearmed            ecfeb56f  libretro/pcsx_rearmed
+picodrive               1a9da199  irixxxx/picodrive
+pokemini                9bf45088  libretro/PokeMini
+race                    f65011e6  libretro/race
+snes9x2005_plus         fd45b0e0  libretro/snes9x2005
+
+TG5040
+--------
+unzip60                 f6389e3a  shauninman/unzip60
+CORES
+beetle-pce-fast         1ce7a4a9  libretro/beetle-pce-fast-libretro
+beetle-vb               9d1bd03f  libretro/beetle-vb-libretro
+fake-08                 8594cfd2  jtothebell/fake-08
+fceumm                  a3af9f1a  libretro/libretro-fceumm
+gambatte                40d0d7ac  libretro/gambatte-libretro
+gpsp                    1d1c7193  libretro/gpsp
+mednafen_supafaust      6b639c98  libretro/supafaust
+mgba                    314bf7b6  libretro/mgba
+pcsx_rearmed            c396a646  libretro/pcsx_rearmed
+picodrive               801daef9  irixxxx/picodrive
+pokemini                9bf45088  libretro/PokeMini
+ppsspp                  7b4ddb42  libretro/ppsspp
+race                    f65011e6  libretro/race
+snes9x2005_plus         fd45b0e0  libretro/snes9x2005
+
+M17
+--------
+CORES
+beetle-pce-fast         1ce7a4a9  libretro/beetle-pce-fast-libretro
+beetle-vb               9d1bd03f  libretro/beetle-vb-libretro
+fake-08                 8594cfd2  jtothebell/fake-08
+fceumm                  a3af9f1a  libretro/libretro-fceumm
+gambatte                40d0d7ac  libretro/gambatte-libretro
+gpsp                    1d1c7193  libretro/gpsp
+mednafen_supafaust      6b639c98  libretro/supafaust
+mgba                    314bf7b6  libretro/mgba
+pcsx_rearmed            c396a646  libretro/pcsx_rearmed
+picodrive               6bd90c96  irixxxx/picodrive
+pokemini                9bf45088  libretro/PokeMini
+race                    f65011e6  libretro/race
+snes9x2005_plus         fd45b0e0  libretro/snes9x2005
+
+RG35XXPLUS
+--------
+unzip60                 f6389e3a  shauninman/unzip60
+CORES
+beetle-pce-fast         69d93f14  libretro/beetle-pce-fast-libretro
+beetle-vb               dd6393f7  libretro/beetle-vb-libretro
+fake-08                 8594cfd2  jtothebell/fake-08
+fceumm                  a3af9f1a  libretro/libretro-fceumm
+gambatte                c21b9fb8  libretro/gambatte-libretro
+gpsp                    541adc9e  libretro/gpsp
+mednafen_supafaust      75c658cc  libretro/supafaust
+mgba                    a69c3434  libretro/mgba
+pcsx_rearmed            4373e29d  libretro/pcsx_rearmed
+picodrive               c7e1c39b  irixxxx/picodrive
+pokemini                9ba2c2d9  libretro/PokeMini
+race                    f65011e6  libretro/race
+snes9x2005_plus         fd45b0e0  libretro/snes9x2005
+
+GKDPIXEL
+--------
+CORES
+beetle-pce-fast         b02d1a10  libretro/beetle-pce-fast-libretro
+beetle-vb               9d1bd03f  libretro/beetle-vb-libretro
+fceumm                  fd8d616a  libretro/libretro-fceumm
+gambatte                1709ebe8  libretro/gambatte-libretro
+gpsp                    1d1c7193  libretro/gpsp
+mgba                    314bf7b6  libretro/mgba
+pcsx_rearmed            5ee1c926  libretro/pcsx_rearmed
+pcsx_rearmed-           5ee1c926  libretro/pcsx_rearmed
+picodrive               214a6c62  irixxxx/picodrive
+pokemini                9bf45088  libretro/PokeMini
+race                    f65011e6  libretro/race
+snes9x2005_plus         fd45b0e0  libretro/snes9x2005
+

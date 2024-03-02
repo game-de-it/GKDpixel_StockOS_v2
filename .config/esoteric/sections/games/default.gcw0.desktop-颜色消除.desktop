@@ -1,0 +1,16 @@
+# 350teric X-tended desktop file
+# lines starting with a # are ignored
+
+title=SameGoo
+description=
+icon=/usr/local/home/.esoteric/cache/images/颜色消除/SameGoo.png
+exec=/usr/bin/opkrun
+params=-m default.gcw0.desktop "/media/data/apps/颜色消除.opk"
+selectorDir=
+selectorFilter=
+selectorAlias=
+manual=
+workdir=
+X-Provider=/media/data/apps/颜色消除.opk
+X-ProviderMetadata=default.gcw0.desktop
+consoleapp=false

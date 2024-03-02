@@ -1,0 +1,11 @@
+title=GB.GBC
+description=Menu:R/Menu key/Fast forward::L  gambatte
+icon=/usr/local/home/.esoteric/cache/images/GBGBC-Gambatte-DMSv1.2.1/gambatte_dms.png
+exec=/usr/bin/opkrun
+params=-m default.gcw0.desktop "/media/data/apps/GBGBC-Gambatte-DMSv1.2.1.opk"
+consoleapp=false
+manual=/media/data/local/home/GKDmini-emulator manual/emulator/GB-GBC-Gambatte/manual-en.txt
+selectorBrowser=true
+X-Provider=/media/data/apps/GBGBC-Gambatte-DMSv1.2.1.opk
+X-ProviderMetadata=default.gcw0.desktop
+selectordir=/media/roms/roms/gb

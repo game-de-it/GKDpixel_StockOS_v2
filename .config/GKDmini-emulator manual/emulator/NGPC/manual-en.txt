@@ -1,0 +1,7 @@
+NGPC Simulator
+
+Archive directory
+/usr/local/home/.ngpcemu/sstates
+
+Key Description:
+menu SELECT

@@ -1,0 +1,7 @@
+Genesis SX v0.91 port for the GKD350h by SX
+
+组合键说明：
+SELECT+START:弹出菜单
+START+L:打开/关闭快进
+SELECT+L:快速保存到1号存档
+SELECT+R:快速读取1号存档

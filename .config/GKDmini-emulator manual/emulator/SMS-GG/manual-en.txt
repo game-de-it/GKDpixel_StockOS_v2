@@ -1,0 +1,7 @@
+SMS-GG Simulator
+
+Archive directory: 
+/usr/local/home/.smsplus/sram
+
+Key Description:
+Menu key: select

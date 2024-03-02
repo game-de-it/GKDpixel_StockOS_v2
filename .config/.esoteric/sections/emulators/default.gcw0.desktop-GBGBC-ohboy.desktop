@@ -1,0 +1,11 @@
+title=GB.GBC
+description=Menu:L+R   ohboy
+icon=/usr/local/home/.esoteric/cache/images/GBGBC-ohboy/ohboy.png
+exec=/usr/bin/opkrun
+params=-m default.gcw0.desktop "/media/data/apps/GBGBC-ohboy.opk"
+consoleapp=false
+manual=/media/data/local/home/GKDmini-emulator manual/emulator/GBGBC-ohboy/manual-en.txt
+selectorBrowser=true
+X-Provider=/media/data/apps/GBGBC-ohboy.opk
+X-ProviderMetadata=default.gcw0.desktop
+selectordir=/media/roms/roms/gbc

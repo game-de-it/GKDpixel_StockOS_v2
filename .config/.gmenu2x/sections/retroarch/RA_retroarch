@@ -1,0 +1,4 @@
+title=Retroarch
+description=Retroarch
+exec=/media/roms/retroarch/retroarch_full.sh
+icon=/media/roms/.config/icons/retroarch.png

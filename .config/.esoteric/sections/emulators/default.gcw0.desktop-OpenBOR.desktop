@@ -1,0 +1,10 @@
+title=OpenBOR
+description=Power button quit
+icon=/usr/local/home/.esoteric/cache/images/OpenBOR/openbor.png
+exec=/usr/bin/opkrun
+params=-m default.gcw0.desktop "/media/data/apps/OpenBOR.opk"
+consoleapp=false
+manual=/media/data/local/home/GKDmini-emulator manual/emulator/OpenBOR/manual-en.txt
+selectorBrowser=true
+X-Provider=/media/data/apps/OpenBOR.opk
+X-ProviderMetadata=default.gcw0.desktop

@@ -1,0 +1,30 @@
+#!/bin/sh
+
+export HOME=`cat /etc/passwd |head -1 |cut -d':' -f 6`
+
+# Restore the framebuffer to a working state
+/usr/sbin/unlockvt > /dev/null
+
+# Reset the console
+/usr/bin/reset
+
+# Disactivate the console on framebuffer
+echo 0 > /sys/devices/virtual/vtconsole/vtcon1/bind
+
+# Restore the regular key map
+if [ -f /sys/devices/platform/linkdev/alt_key_map ] ; then
+	echo 0 > /sys/devices/platform/linkdev/alt_key_map
+fi
+
+# Source /etc/profile to set the environment variables
+. /etc/profile
+if [ -f /firstboot ] ; then
+	exec /usr/local/sbin/firstboot
+fi
+
+if [ -e /usr/local/sbin/frontend_start ]; then
+	exec /usr/local/sbin/frontend_start
+else
+	#exec /usr/bin/gmenu2x
+	exec /usr/share/n/esoteric
+fi

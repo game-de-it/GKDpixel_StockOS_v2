@@ -1,0 +1,250 @@
+GKDMINI-20210201-v030
+
+使用教程以及关于
+
+【教程】psx换bios
+打开ps1分盘，改成rec  ，core setting-emulation core rec，set Bios file 选择scph1001.bin这个通用BISO，B返回，Quit退出。换其他特定BIos一样的方法。
+进入PS1游戏，选择任意游戏，同时按下select和start键调出设置菜单，core settings ，HLE emulatated BIOS off。B返回，Quit退出。
+
+【教程】xmame改渲染模式
+
+选中任意游戏A进入菜单，选择Video rendering    software:No scaling,按a进入游戏，再按左右键进入游戏。
+ 对于街机游戏，建议能用xmame尽量xmame，不能用的再用fba。
+【教程】xmame有些操作很容易让你找不到原来的游戏在哪里去了。
+因此说明下。
+r键切换3个文件夹游戏，52,69,84(84有156个游戏，52有2个游戏，69有9个游戏）所以你再按r切回84文件夹。
+
+l键是切换该文件夹，比如84文件下其他分类，比如全部游戏5014，当然那些游戏没装在350h里，显示大多数是红色的字，（available-clones，available，all game）这几项的切换。
+所以很容易混淆，切换到其他类型或者其他文件夹，而找不到原来应该在列表里的游戏。
+所以你再按r切回84文件夹分类的available156。
+
+【教程】关于350h只有熄屏不待机说明
+这个架构不支持待机，所以不玩就关机。反正开机也就3秒。电源键可以关机，系统内也有关机选项
+
+【教程】xmame里的武装飞鸟2黑屏
+是机器读取解密，没解密的rom读取时间很长，差不多1分钟，请耐心等待。
+
+
+【教程】Game Kiddy 350H 模拟器简要使用说明
+程序安装
+1.外置 TF 卡支持 EXT2,EXT3,EXT4 FAT32 exFAT 格式 , NTFS 不支持    实测最大支持 128G
+256G
+先弄一外置 TF 卡，用 dinguxcmdr 里左侧选择到存储卡（位置是/MEDIA/SDCARD）把 opk 文
+件往右侧机器内置内存/MEDIA/DATA/APPS 里传
+dinguxcmdr 操作说明 A 前进一级，B 后退一级，Y 菜单（复制，剪切，删除等等），X（全选，
+新建文件，退出等等）
+2.使用 USB 传输模式, U 盘默认格式 FAT32
+插上 micro USB 线到主机，弹出选择框，按 A 键电脑识别成一个 U 盘,对应位置是
+/MEDIA/ROMS, 把需要的文件，OPK 或 ROM， 往 U 盘里面存放就行， 注意文件传输完，
+一定要弹出 U 盘。
+OPK安装和 外置TF卡安装一样. 用dinguxcmdr里左侧选择到存储卡（位置是/MEDIA/ROMS）
+把 opk 文件往右侧机器内置内存/MEDIA/DATA/APPS 里传
+dinguxcmdr 操作说明 A 前进一级，B 后退一级，Y 菜单（复制，剪切，删除等等），X（全选，
+新建文件，退出等等）
+3.文件位置
+opk 程序都放到/meida/data/apps
+一般运行一次后会在/media/data/local/home 生成程序的配置文件，部分游戏机的 bios 文件
+需要手动拷贝到对应模拟器 bios 文件夹里
+4.其他注意
+PS 模拟器使用非 hle 模式兼容性会有很大提高（将 scph1001.bin 当配置文件 bios 文件夹，
+并在设置中选择该 bios）
+部分模拟器如运行有死机请更换 BIOS 文件
+特殊按键使用说明   
+电源键短按一次  ‐‐‐‐‐‐‐‐‐强制退出当前运行程序到主菜单（实用功能）相当于 home 键
+电源键长按 3 秒  ‐‐‐‐‐‐‐‐‐  关机,可在游戏状态下关机   
+电源键长按 10 秒  ‐‐‐‐‐‐‐‐‐  系统死机时候使用，相当于复位键
+START+方向键上‐‐‐‐‐‐‐亮度增加
+START+方向键下‐‐‐‐‐‐‐亮度减少
+START+方向键左‐‐‐‐‐‐‐音量减少
+START+方向键右‐‐‐‐‐‐‐音量增加模拟器 使用说明   
+ 
+【教程】XMAME
+ROM 列 表 在 /media/roms/apps/xmame/xmame52/roms   xmame69/roms     xmame84/roms
+如果识别不到游戏 请按 start 键，会刷新识别游戏
+投币 L+SELECT，开始 R+select，L+R+START 游戏中菜单，L+R+SECECT 退回游戏选择画面；再
+次按 select 退出模拟器
+按钮 SELECT + R：投币
+按钮 SELECT + L：开始
+按钮 SELECT + L + R：退回游戏选择画面。
+游戏中的扩展控件（访问菜单和选项）
+按钮 L + R：暂停。
+按钮 START + R：查看 FPS。
+按钮 START + L：XMAME 菜单。即。重新定义键，自动点火等等！
+↑＋select：存档
+↓＋select：读档
+游戏列表里，x选中变黄后L添加到收藏。以后就可以用L键在收藏里找到游戏。
+
+【教程】DOSbox
+D‐PAD ‐  方向键，在鼠标模式 可以移动鼠标
+A ‐ Ctrl
+B ‐ Alt
+Y ‐ Spacebar
+X ‐ Shift
+L ‐  键盘显示
+R ‐  鼠标模式
+Start ‐ Enter
+Select ‐ Escape
+键盘模式控制:
+A ‐  正常按键
+B ‐ ‐“粘滞”按键（组合键 使用）
+Y ‐  切换键盘不透明/透明
+X + D‐PAD ‐  在屏幕上移动键盘
+Select + Start 弹出 菜单  
+ 
+【教程】FBA
+D‐PAD ‐  移动（在旋转游戏中其逻辑自动改变）
+SELECT ‐  硬币
+START ‐  玩家开始 1
+SELECT+START ‐  玩家开始 2
+A ‐ fire 1
+B ‐ fire 2
+X ‐ fire 3
+Y ‐ fire 4L ‐ fire 5
+R ‐ fire 6
+L+R+Y ‐  显示/隐藏 FPS
+L+R+A ‐  快速状态加载
+L+R+B ‐  快速状态保存
+L+R+SELECT ‐  菜单
+L+R+START ‐ FBA SDL 菜单（只能从菜单中退出 FBA）
+
+【教程】NGPCemu
+SELECT ‐  菜单   
+无组合键
+【教程】ohboy
+L+R ‐  菜单
+【教程】Oswan
+SELECT ‐  菜单   
+无组合键
+【教程】PCSX4ALL
+Select + Start 弹出 菜单
+core settings ‐‐ analog arrow keys 是摇杆功能，
+当 OFF 时候，无摇杆功能 ，摇杆左为 L2 键    摇杆右为 R2 键 向下呼出菜单，向上 L2+R2
+当 ON 时有摇杆功能    SELECT+L 为 L2 键    SELECT+R 为 R2 键   
+【教程】PocketSNES
+Select + Start 弹出 菜单
+【教程】SMS
+SELECT ‐  菜单   
+无组合键
+【教程】handy
+SELECT ‐  菜单   
+无组合键
+【教程】mame4all   
+mame4all 第一次运行选择 ROM 目录后以后都默认使用这个目录不能再更改，如果要重新选
+择 ROM 路径，删除 /media/data/local/home/.mame4all 配置，然后运行 mame4all 即可从新
+设置 ROM 路径。
+SELECT: 硬币
+START:    开始游戏
+START+SELECT : 主菜单。可用于重新定义所有游戏的默认键（使用 b 按钮）START+L+R: Esc（退出到 MAME 前端）
+L+R: 暂停
+SELECT+R: 显示 FPS
+START+L: 显示配置文件
+L+B: 快照
+【教程】Regba
+Select + Start 弹出 菜单
+【教程】FCEUX
+Select + Start 弹出 菜单
+【教程】GameBatte
+L+R ‐  菜单
+【教程】PicoDrive
+SELECT ‐  菜单   
+【教程】Temper
+SELECT ‐  菜单   
+无组合键
+【教程】GnGeo
+Select + Start 弹出 菜单
+【教程】自制游戏
+SORR
+有闪退现象    删除 /media/data/local/home/.sorr5 配置
+注意
+任何时候请不要拆除电池，拆除电池将导致系统电池电量表恢复出厂值。这将导致系
+统显示的电池电量值（百分比显示）不准， 当拆卸电池后，请按如下方法校准
+电池电量表。
+1，将电池插头插入设备，开机后直到电池放电至5%电量以下，然后连接充电
+器将电池充满（红色充电灯熄灭），这时电量有可能不是显示100%电量，不必
+担心继续下一步操作
+2, 接上一步，继续将电池使用至5%电量值以下，然后连接充电器直至 充满电
+池（红色充电指示灯熄灭），这时电池电量值（电池容量）已经 校准到实际
+容量。
+简单讲，就是拿到游戏机玩到红灯闪烁再去充满即可。 
+
+
+【教程】其他教程：
+
+350H更换壁纸和删除内置壁纸教程
+1.	首先感谢一下mib大佬的指导。
+2.	准备好图片，用数据线连接上电脑，按a键进入u盘模式
+3.	把准备好的图片丢进去，我是新建了个英文文件夹photo，以方便找到
+4.	拷贝好后，在applications打卡DinguxCmdr（双栏文件管理器），先左边找到自己的图片，目录是，/meadia/roms/photo
+5.	然后右边找到系统壁纸目录/usr/share/gmen2x/skins/default/wallpapers,按x选中左侧要拷贝的壁纸，弹出菜单选择copy，就复制到右边目录了（如果要删除也一样菜单选Delete就行，默认的几个壁纸可以删除的我试过了）
+6.	电源键返回主菜单，settings-壁纸，选中壁纸就成功了。
+7.	说明下皮肤。两种皮肤，一个是GKD350，一个是Default，差别好像是图标排列数量，默认一排3个，GKd350是4个。
+8.	其他注意事项黑色背景不会干扰模拟器预览图展示效果，其他图多少有影响。
+还有壁纸最好丢在default/wallpapers默认主题文件夹里，丢其他主题有可能出现只能在那个主题出现该壁纸而其他主题里没法看到设置该壁纸。
+【教程】关于文本替换教程内置
+把about.txt复制到机身，打开双栏文件夹，选中about.txt按x，复制到/usr/share/gmenu2x,覆盖原本的那个about.txt文件
+
+ 
+【教程】Gkd350h 用otg安卓U盘电脑U盘互传资料以及反向充电，2P接无线手柄
+
+1.机器透露是带otg 的，而otg的特性就是反向给外挂设备供电，所以完全可以用来当充电宝使用，至于2300mah电池转化率就不知道好不好了。这机有空间改3900-5000mah大电池，没准真能当个充电宝使了。
+ 
+2.外挂u盘，所以可以用otg 线直接外挂U盘传输数据。理论上手机设置储存模式也可以。 
+3.外挂无线手柄，带接收器的那种。因为托马斯写的驱动不一定全部兼容，而托马斯测试的是八位堂的手柄，所以八位堂的应该没问题。能识别。其他的就要用户验证了。理论上鼠标键盘也能用，只是估计只有dos模拟器会用到吧。暂时没人测试验证。otg的特性其实还是蛮大的，等人开发出新玩法。
+支持部分ps4手柄，通用xbox手柄和任天堂手柄，可以在电脑上设备管理器vid pid码是否支持；支持的列表有：
+vid_045e pid_028e
+vid_0810 pid_e501
+vid_2563 pid_0526
+
+手柄支持的模拟器仅支持fba模拟器的2p，其他不支持
+ 
+【教程】GnGeo 模拟器速度太快，打开自动跳帧就可以解决。option-auto frame skip true  
+
+
+【教程】梦幻模拟战1+2增值版会按键无反应
+进设置菜单，选择核心设置，然后切换下RCntFIX和VSyncWA的设置，这样就能解决按键无反应的问题。
+但我没有玩太长时间，不确定永远有效。
+
+【教程】放浪卡死处理办法
+1、先即时存档
+2、退出来，进那个直接进模拟器的pcsx
+3、改核心设置，从rec改成int
+4、用模拟器菜单退出，不要用电源退出，然后去有目录的模拟器开游戏
+5、读即时存档，过死机部分，过了后，再存档
+6、重复3,4,5把int改回rec，继续玩
+一句话说就是，改成int，过死机，改回rec继续玩
+但必须经那个独立模拟器改,不然不生效。
+
+【教程】fc模拟器利用把音频采样率调到8000的bug达到加速效果
+
+调大8000后，那么帧数达到130多帧那就实现了bug的加速了。
+
+【教程】至于性能模式，一些难啃的游戏建议打开，最佳5档。当然7档也没问题，比如xmame里的棒球小子和兽化格斗2。性能模式会增加耗电。
+
+【关于】
+GMENU2X已经由MasimiLaNo“Ryo”TrROMeo创建，并在GPL-V2许可证下发布。
+
+此版本由Qi-hardware和opendingux团队维护。最新源代码可以在这里找到：
+http://projects.qi-hardware.com/index.php/p/gmenu2x
+
+翻译：
+---
+----
+英语 & 意大利语 by Massimiliano Torromeo
+法语 by Paul Cercueil
+丹麦语 by claus
+荷兰语 by superfly
+西班牙语 by pedator
+葡萄牙语 (Portugal) by NightShadow
+斯洛伐克语 by Jozef
+瑞典语 by Esslan and Micket
+德语 by fusion_power, johnnysnet and Waldteufel
+芬兰语 by Jontte and Atte
+挪威语 by Lithium Flower
+俄语 by XaMMaX90
+波兰语 by Artur Rojek
+
+【其他】
+感谢！霸霸小萌新汉化所有模拟器和菜单！
+感谢！有的啊和mib整理筛选游戏rom！
+感谢！mib和hano1测试和反馈软件bug！
+感谢！明暗之神（老张）为宣传gkd350h宣传，评测，并为游戏玩家提供售后交流平台！QQ群：588914844

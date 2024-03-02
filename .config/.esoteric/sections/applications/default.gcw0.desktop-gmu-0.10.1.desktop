@@ -1,0 +1,16 @@
+# IUX X-tended desktop file
+# lines starting with a # are ignored
+
+title=Gmu
+description=A multi-format music player
+icon=/usr/local/home/.esoteric/cache/images/gmu-0.10.1/gmu.png
+exec=/usr/bin/opkrun
+params=-m default.gcw0.desktop "/media/data/apps/gmu-0.10.1.opk"
+selectorDir=
+selectorFilter=
+selectorAlias=
+manual=/usr/local/home/.esoteric/cache/manuals/gmu-0.10.1/README.txt
+workdir=
+X-Provider=/media/data/apps/gmu-0.10.1.opk
+X-ProviderMetadata=default.gcw0.desktop
+consoleapp=false

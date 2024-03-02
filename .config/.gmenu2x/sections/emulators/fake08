@@ -1,0 +1,8 @@
+title=PICO8
+consoleapp=true
+description=FAKE08
+exec=/media/roms/.config/apps/fake08/FAKE08
+params=%f
+icon=/media/roms/.config/icons/pico-8.png
+selectorbrowser=true
+selectordir=/media/roms/roms/pico-8

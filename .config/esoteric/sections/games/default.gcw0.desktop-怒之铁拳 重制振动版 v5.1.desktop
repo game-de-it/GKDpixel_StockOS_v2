@@ -1,0 +1,16 @@
+# 350teric X-tended desktop file
+# lines starting with a # are ignored
+
+title=怒之铁拳
+description=怒之铁拳 重制振动版 v5.1
+icon=/usr/local/home/.esoteric/cache/images/怒之铁拳 重制振动版 v5.1/icon.png
+exec=/usr/bin/opkrun
+params=-m default.gcw0.desktop "/media/data/apps/怒之铁拳 重制振动版 v5.1.opk"
+selectorDir=
+selectorFilter=
+selectorAlias=
+manual=
+workdir=
+X-Provider=/media/data/apps/怒之铁拳 重制振动版 v5.1.opk
+X-ProviderMetadata=default.gcw0.desktop
+consoleapp=false

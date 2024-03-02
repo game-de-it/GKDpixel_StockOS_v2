@@ -1,0 +1,6 @@
+title=FE changes
+consoleapp=true
+description=Frontend changes
+icon=/media/roms/.config/icons/fechanges.png
+exec=/media/home/apps/fechanges/fechanges.sh
+editable=false

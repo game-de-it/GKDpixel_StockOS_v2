@@ -1,0 +1,16 @@
+# 350teric X-tended desktop file
+# lines starting with a # are ignored
+
+title=UMG
+description=
+icon=/usr/local/home/.esoteric/cache/images/猴子冒险/umg.png
+exec=/usr/bin/opkrun
+params=-m default.gcw0.desktop "/media/data/apps/猴子冒险.opk"
+selectorDir=
+selectorFilter=
+selectorAlias=
+manual=
+workdir=
+X-Provider=/media/data/apps/猴子冒险.opk
+X-ProviderMetadata=default.gcw0.desktop
+consoleapp=false

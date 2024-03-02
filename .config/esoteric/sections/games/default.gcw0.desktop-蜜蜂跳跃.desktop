@@ -1,0 +1,16 @@
+# 350teric X-tended desktop file
+# lines starting with a # are ignored
+
+title=蜜蜂跳跃
+description=
+icon=/usr/local/home/.esoteric/cache/images/蜜蜂跳跃/hocoslamfy.png
+exec=/usr/bin/opkrun
+params=-m default.gcw0.desktop "/media/data/apps/蜜蜂跳跃.opk"
+selectorDir=
+selectorFilter=
+selectorAlias=
+manual=/usr/local/home/.esoteric/cache/manuals/蜜蜂跳跃/manual-en.txt
+workdir=
+X-Provider=/media/data/apps/蜜蜂跳跃.opk
+X-ProviderMetadata=default.gcw0.desktop
+consoleapp=false

@@ -1,0 +1,7 @@
+title=gmu
+description=多格式音乐播放器
+exec=/media/data/local/home/apps/gmu/gmu.dge
+icon=skin:icons/gmu.png
+hinese
+exec=/media/data/local/home/apps/gmu/gmu.dge
+icon=skin:icons/gmu.png

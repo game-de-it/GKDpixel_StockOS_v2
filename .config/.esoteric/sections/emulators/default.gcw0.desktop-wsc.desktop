@@ -1,0 +1,11 @@
+title=WSC
+description=menu:menu key
+icon=/usr/local/home/.esoteric/cache/images/wsc/WSC.png
+exec=/usr/bin/opkrun
+params=-m default.gcw0.desktop "/media/data/apps/wsc.opk"
+consoleapp=false
+manual=/media/data/local/home/GKDmini-emulator manual/emulator/WSC/manual-en.txt
+selectorBrowser=true
+X-Provider=/media/data/apps/wsc.opk
+X-ProviderMetadata=default.gcw0.desktop
+selectordir=/media/roms/roms/wonderswancolor

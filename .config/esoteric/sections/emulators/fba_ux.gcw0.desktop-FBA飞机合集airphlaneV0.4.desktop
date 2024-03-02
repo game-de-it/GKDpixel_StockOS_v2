@@ -1,0 +1,10 @@
+title=飞机合集
+description=FBA 0.2.97.44 FBA4ARM V0.4 shoot
+icon=/usr/local/home/.esoteric/cache/images/FBA飞机合集airphlaneV0.4/airplane.png
+exec=/usr/bin/opkrun
+params=-m fba_ux.gcw0.desktop "/media/data/apps/FBA飞机合集airphlaneV0.4.opk"
+consoleapp=false
+manual=/media/data/local/home/.esoteric/cache/手册/飞机合集/手册.txt
+selectorBrowser=true
+X-Provider=/media/data/apps/FBA飞机合集airphlaneV0.4.opk
+X-ProviderMetadata=fba_ux.gcw0.desktop

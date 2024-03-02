@@ -1,0 +1,16 @@
+# 350teric X-tended desktop file
+# lines starting with a # are ignored
+
+title=Quake II
+description=
+icon=/usr/local/home/.esoteric/cache/images/雷神之锤2 Quake2/q2.png
+exec=/usr/bin/opkrun
+params=-m default.gcw0.desktop "/media/data/apps/雷神之锤2 Quake2.opk"
+selectorDir=
+selectorFilter=
+selectorAlias=
+manual=
+workdir=
+X-Provider=/media/data/apps/雷神之锤2 Quake2.opk
+X-ProviderMetadata=default.gcw0.desktop
+consoleapp=false

@@ -1,0 +1,6 @@
+title=XMAME v1.3
+description=XMAME Frontend v1.3
+icon=/media/ROMS/apps/xmame/resource/xmame.png
+exec=/media/ROMS/apps/xmame/xmame.dge
+manual=/media/ROMS/apps/xmame/readme.txt
+X-Provider=/media/ROMS/apps/xmame/xmame.dge

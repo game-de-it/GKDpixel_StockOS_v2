@@ -1,0 +1,11 @@
+title=SFC.Pocket
+description=menu:SELECT+START
+icon=/media/data/local/home/.esoteric/cache/images/SNES-PocketSNES-en/PocketSNES.png
+exec=/usr/bin/opkrun
+params=-m default.gcw0.desktop "/media/data/apps/SNES-PocketSNES-en.opk"
+consoleapp=false
+manual=/usr/local/home/.esoteric/cache/manuals/SNES-PocketSNES-en/manual-en.txt
+selectorBrowser=true
+X-Provider=/media/data/apps/SNES-PocketSNES-en.opk
+X-ProviderMetadata=default.gcw0.desktop
+selectordir=/media/roms/roms/snes

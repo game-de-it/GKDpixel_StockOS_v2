@@ -1,0 +1,8 @@
+title=神秘商人
+description=苍龙逐日神秘商人修改版
+icon=/media/roms/apps/sdljy-clzr+/sdljy.png
+exec=/media/roms/apps/sdljy-clzr+/sdljy.dge
+consoleapp=true
+manual=/usr/share/n/cache/手册/金庸/手册.txt
+selectorbrowser=false
+selectorbrowser=false

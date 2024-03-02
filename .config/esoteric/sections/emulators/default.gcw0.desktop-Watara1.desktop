@@ -1,0 +1,11 @@
+title=Watara
+description=Watara Supervision emulator
+icon=/usr/local/home/.esoteric/cache/images/Watara1/potator.png
+exec=/usr/bin/opkrun
+params=-m default.gcw0.desktop "/media/data/apps/Watara1.opk"
+consoleapp=false
+manual=/usr/share/n/cache/手册/watara/手册.txt
+selectorBrowser=true
+X-Provider=/media/data/apps/Watara1.opk
+X-ProviderMetadata=default.gcw0.desktop
+selectordir=/media/sdcard/Roms/Watara - Supervision

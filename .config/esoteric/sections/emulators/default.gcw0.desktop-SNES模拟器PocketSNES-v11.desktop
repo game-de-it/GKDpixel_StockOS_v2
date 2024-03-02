@@ -1,0 +1,11 @@
+title=SFC
+icon=/usr/local/home/.esoteric/cache/images/SNES模拟器PocketSNES-v11/PocketSNES.png
+exec=/usr/bin/opkrun
+params=-m default.gcw0.desktop "/media/data/apps/SNES模拟器PocketSNES-v11.opk"
+consoleapp=false
+manual=/media/data/local/home/.esoteric/cache/manuals/SNES模拟器PocketSNES-v11/manual-cn.txt
+selectorBrowser=true
+selectorFilter=sfc,zip
+X-Provider=/media/data/apps/SNES模拟器PocketSNES-v11.opk
+X-ProviderMetadata=default.gcw0.desktop
+selectordir=/media/sdcard/Roms/SFC

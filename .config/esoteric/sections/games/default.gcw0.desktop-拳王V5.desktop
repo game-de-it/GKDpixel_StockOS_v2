@@ -1,0 +1,16 @@
+# 350teric X-tended desktop file
+# lines starting with a # are ignored
+
+title=拳王
+description=
+icon=/usr/local/home/.esoteric/cache/images/拳王V5/icon.png
+exec=/usr/bin/opkrun
+params=-m default.gcw0.desktop "/media/data/apps/拳王V5.opk"
+selectorDir=
+selectorFilter=
+selectorAlias=
+manual=
+workdir=
+X-Provider=/media/data/apps/拳王V5.opk
+X-ProviderMetadata=default.gcw0.desktop
+consoleapp=false

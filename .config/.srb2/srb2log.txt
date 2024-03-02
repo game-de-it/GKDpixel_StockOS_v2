@@ -1,0 +1,48 @@
+Compiled for SDL version: 1.2.15
+Linked with SDL version: 1.2.15
+Setting up SRB2...
+setvbuf didnt work
+Looking for WADs in: SRB2WADDIR,.
+Z_Init(): Init zone memory allocation daemon. 
+System memory: 48MB - Free: 48MB
+I_StartupTimer()...
+W_InitMultipleFiles(): Adding IWAD and main PWADs.
+Added file /mnt/SRB2/srb2.srb (6214 lumps)
+Loading main config from /mnt/SRB2/srb2.srb
+Added file /mnt/SRB2/zones.dta (962 lumps)
+Loading main config from /mnt/SRB2/zones.dta
+Added file /mnt/SRB2/player.dta (526 lumps)
+Added file /mnt/SRB2/rings.dta (444 lumps)
+Added file /mnt/SRB2/patch.dta (94 lumps)
+Added file /mnt/SRB2/music.dta (171 lumps)
+I_StartupGraphics()...
+Starting up with video driver : fbcon
+Video Interface Capabilities:
+ Hardware surfaces
+ There is 1800 KB of video memory
+Current Video Mode
+ 320x240 at 16 bit color
+ Stored in system memory
+ Uses synchronous blits if possible
+ Has nonexclusive palette access
+ No hardware flipping
+ Nonresizable window
+CPU Info: 486: 0, 586: 0, MMX: 0, 3DNow: 0, MMXExt: 0, SSE2: 0
+HU_Init(): Setting up heads up display.
+Number of console HUD lines is now 5
+Joystick: linkdev device (Analog 2-axis 8-button 2-hat)
+couldn't execute file /usr/local/home/.srb2/config.cfg
+Default resolution: 320 x 240 (16 bits)
+M_Init(): Init miscellaneous info.
+R_Init(): Init SRB2 refresh daemon.
+R_LoadTextures()...
+R_InitSprites()...
+srb2.srb added 2975 frames in 231 sprites
+player.dta added 163 frames in 1 sprites
+rings.dta added 431 frames in 18 sprites
+patch.dta added 1 frames in 1 sprites
+Added skin 'tails'
+Added skin 'knuckles'
+R_InitColormaps()...
+Number of Extra Colormaps: 6
+S_Init(): Setting up sound.

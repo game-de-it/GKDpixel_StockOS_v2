@@ -1,0 +1,6 @@
+Handy Simulator
+
+Archive directory 
+/usr/local/home/.handy/
+
+menu: select

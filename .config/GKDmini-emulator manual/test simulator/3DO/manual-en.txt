@@ -1,0 +1,5 @@
+3DO Simulator
+
+start start
+select exit
+L R pan left and right

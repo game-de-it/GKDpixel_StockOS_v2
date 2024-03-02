@@ -1,0 +1,7 @@
+title=pyclock
+description=时钟，闹钟，计时器，日历
+exec=/usr/bin/pyclock
+icon=skin:icons/pyclock.png
+rm, timer, calendar
+exec=/usr/bin/pyclock
+icon=skin:icons/pyclock.png

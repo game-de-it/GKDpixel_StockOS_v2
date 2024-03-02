@@ -1,0 +1,10 @@
+title=PCE
+description=menu:SELECT
+icon=/usr/local/home/.esoteric/cache/images/PCE-temper/PCE.png
+exec=/usr/bin/opkrun
+params=-m default.gcw0.desktop "/media/data/apps/PCE-temper.opk"
+consoleapp=false
+selectorBrowser=true
+X-Provider=/media/data/apps/PCE-temper.opk
+X-ProviderMetadata=default.gcw0.desktop
+selectordir=/media/roms/roms/pcengine

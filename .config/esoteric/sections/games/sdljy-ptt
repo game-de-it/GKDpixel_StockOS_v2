@@ -1,0 +1,8 @@
+title=批踢踢
+description=批踢踢
+icon=/media/roms/apps/sdljy-ptt/sdljy-ptt.png
+exec=/media/roms/apps/sdljy-ptt/sdljy-ptt.dge
+consoleapp=true
+manual=/usr/share/n/cache/手册/金庸/手册.txt
+selectorbrowser=false
+selectorbrowser=false

@@ -1,0 +1,10 @@
+按键说明
+select 菜单
+
+cofig设置
+load state：0即时读档0
+save state：0即时存档0
+Reset复位
+Exit退出
+Upscale：PreferAspec  等比缩放   Fullscreen全屏
+Swap A/B：no 互换A/B键

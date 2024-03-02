@@ -1,0 +1,10 @@
+title=SMS
+icon=/usr/local/home/.esoteric/cache/images/SMS/sms.png
+exec=/usr/bin/opkrun
+params=-m default.gcw0.desktop "/media/data/apps/SMS.opk"
+consoleapp=false
+manual=/usr/local/home/.esoteric/cache/manuals/SMS/readme.txt
+selectorBrowser=true
+X-Provider=/media/data/apps/SMS.opk
+X-ProviderMetadata=default.gcw0.desktop
+selectordir=/media/sdcard/Roms/SMS

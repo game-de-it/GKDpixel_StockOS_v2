@@ -1,0 +1,12 @@
+title=SNES
+description=菜单键:双S键/右快捷键(金手指)
+icon=/usr/local/home/.esoteric/cache/images/SNES模拟器snes9x-SXv0.96/Snes.png
+exec=/usr/bin/opkrun
+params=-m default.gcw0.desktop "/media/data/apps/SNES模拟器snes9x-SXv0.96.opk"
+consoleapp=false
+manual=/usr/local/home/.esoteric/cache/manuals/SNES模拟器snes9x-SXv0.96/manual-en.txt
+selectorBrowser=true
+selectorFilter=zip,sfc
+X-Provider=/media/data/apps/SNES模拟器snes9x-SXv0.96.opk
+X-ProviderMetadata=default.gcw0.desktop
+selectordir=/media/sdcard/Roms/SFC-ZIP

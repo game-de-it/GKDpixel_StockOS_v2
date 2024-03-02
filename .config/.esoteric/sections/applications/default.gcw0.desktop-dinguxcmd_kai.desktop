@@ -1,0 +1,10 @@
+title=file manager
+description=File management tool - Two-pane file manager
+icon=/usr/local/home/.esoteric/cache/images/dinguxcmd_kai/commander.png
+exec=/usr/bin/opkrun
+params=-m default.gcw0.desktop "/media/data/apps/dinguxcmd_kai.opk"
+consoleapp=false
+manual=/usr/local/home/.esoteric/cache/manuals/dinguxcmd_kai/readme.gcw0.txt
+selectorBrowser=true
+X-Provider=/media/data/apps/dinguxcmd_kai.opk
+X-ProviderMetadata=default.gcw0.desktop

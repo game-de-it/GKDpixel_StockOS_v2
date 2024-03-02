@@ -1,0 +1,9 @@
+title=C-Dogs SDL
+icon=/usr/local/home/.esoteric/cache/images/C型狗/cdogs-sdl.png
+exec=/usr/bin/opkrun
+params=-m default.gcw0.desktop "/media/data/apps/C型狗.opk"
+consoleapp=false
+manual=/media/data/local/home/.esoteric/cache/manuals/C型狗/manual-cn.txt
+selectorBrowser=true
+X-Provider=/media/data/apps/C型狗.opk
+X-ProviderMetadata=default.gcw0.desktop

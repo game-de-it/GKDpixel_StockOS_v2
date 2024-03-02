@@ -1,0 +1,10 @@
+title=.FBA35
+description=Version FBA35,not supporting cheat code
+icon=/usr/local/home/.esoteric/cache/images/FBA-35/fba_35.png
+exec=/usr/bin/opkrun
+params=-m default.gcw0.desktop "/media/data/apps/FBA-35.opk"
+consoleapp=false
+manual=/media/data/local/home/GKDmini-emulator manual/emulator/FBA-35/manual-en.txt
+selectorBrowser=true
+X-Provider=/media/data/apps/FBA-35.opk
+X-ProviderMetadata=default.gcw0.desktop

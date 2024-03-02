@@ -1,0 +1,55 @@
+nen9x-SX emulator
+
+Archive directory:
+ /usr/local/home/.snes9x-sx/Sram
+cheat directory: 
+/usr/local/home/.OpenBOR/cheat
+
+Menu key: right menu key/Select+Start
+
+Shortcut Description
+Select+L Turn on/off acceleration mode
+Start+L Quick Save (File No. 8)
+Start+R Quick Read (File No. 8)
+
+Image Settings Instructions
+Smart Resize: Determines if stretching is 
+required based on actual image size
+
+Single size display: always display at 
+standard size
+
+Full screen display: the entire screen 
+is displayed
+
+Horizontal stretch: Only stretch 
+horizontally
+
+If the game display is not normal, try 
+to set it"Allow invalid memory access" 
+to "Yes" Be
+Custom Instructions
+1. Customize the background image when the 
+game is not displayed in full screen
+1. A 16-bit color image in png format with 
+a size of 320*240
+2. The file name is back.png (the upper and 
+lower case are the same)
+3. Put it in the /usr/local/home/.snes9x-sx 
+directory
+2. Goldfinger customization method, currently 
+the system has opened the goldfinger 
+customization function force, you need to 
+manually set the cheat file
+1. First use the snes9x1.60 version to 
+generate the cheat file on the PC
+2. The file name is the same as the game, 
+and the suffix is ​​.cht (eg final fantasy 6.cht)
+3. The cheat file needs to use UTF-8 encoding,
+otherwise in the simulator The name of the 
+cheater may be garbled in Chinese
+4. The cheat file needs to be placed in 
+/usr/local/home/.snes9x-sx/cheat directory
+5. Enter the cheat settings in the simulator 
+and select to open the corresponding cheat,
+It will take effect immediately in the game 

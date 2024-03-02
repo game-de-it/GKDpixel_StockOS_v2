@@ -1,0 +1,10 @@
+title=Airplane
+description=Menu:L+R+START/right menu key,two kinds of bullets,L for bomb
+icon=/usr/local/home/.esoteric/cache/images/FBA飞机合集airphlaneV0.4/airplane.png
+exec=/usr/bin/opkrun
+params=-m default.gcw0.desktop "/media/data/apps/FBA飞机合集airphlaneV0.4.opk"
+consoleapp=false
+manual=/media/data/local/home/GKDmini-emulator manual/emulator/FBA-airplane/manual-en.txt
+selectorBrowser=true
+X-Provider=/media/data/apps/FBA飞机合集airphlaneV0.4.opk
+X-ProviderMetadata=default.gcw0.desktop

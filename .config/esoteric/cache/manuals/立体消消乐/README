@@ -1,0 +1,172 @@
+
+* P u z z l e t u b e *
+
+1. About his game
+2. How to play?
+3. Compo4all
+4. Custom music
+5. How to contact?
+6. Font license
+
+
+[ 1. About the game ]
+
+This game was made for the RIOT digital contest - a multi platform
+game developing contest for different handhelds like the Openpandora,
+Dingoo, Caanoo or Wiz.
+
+It is written by Ziz and licenced under the GPL and MPL. You can get
+the sourcode here: http://github.com/theZiz/puzzletube.
+
+At the moment it is avaible for GP2X, Wiz, Dingux, Caanoo, Openpandora
+and the GCW. Furthermore Linux and Windows PC.
+
+[ 2. How to play? ]
+
+This a a puzzle game like many others but this time on a tube. There are
+3 game modes explained at beginning. In every mode you have to crush
+stones. To crush a stone you have to move at least 4 stones of the same
+color to a 2x2 square. This square, every attached stone of the same
+color and stones on the other side of the tube with the same color will
+explode and you get points. If there is a stone of the same color on the
+other side the stone wobbles. If you got a chain reaction you get more
+points. How much points you get (and why) is shown on the left side of
+the screen.
+
+To get the 2x2 squares you have to change stones. You always switch two
+stones around a third one "in the middle". There are 3 modes to switch
+two stones, configurable in the settings. In the normal mode you just
+press the shown buttons to switch the stones under the buttons.
+E.g. on the GCW Zero X and Y switches the stone left of your cursor with the
+stone above your cursor.
+In the second mode named "Snake" you move with 3 Cursors like a Snake
+and the Tail and the Head switch if you press A, B, X or Y.
+The last and newest mode named "Padmode" is a bit
+experimental, but a lot of people seem to like it. You have to press A, B,
+X or Y, hold it down (!) and with the D-Pad choose a stone to switch.
+
+[ 3. Compo4all ]
+
+Puzzletube is compatibly to compo4all. That means, if puzzletube finds a
+c4a-prof file, which is created by compo4all manager or Mini-C4A, it commits
+scores to an online highscore system (called "Compo4all").
+
+[ 4. Custom Music ]
+
+If you don't like the ingame music of puzzletube, you can mute it and use a
+player of your choice in background or just fill the music folder (if it not
+exist, create it) with your custom music, which will played ingame instead.
+
+[ 5. How to contact? ]
+
+Website: http://ziz.gp2x.de
+E-Mail: alex.matthes@web.de (fuck you google mail!)
+If you are English speaking feel free to write about Puzzletube in one
+of these boards:
+http://www.gp32x.com/board/index.php?/topic/59408-riot-puzzletube-searching-allies/page__pid__963687__st__15&#entry963687
+http://boards.openpandora.org/index.php?/topic/3326-riot-puzzletube-searching-allies/
+If you are German speaking this board could be interesting for you, too:
+http://forum.gp2x.de/viewtopic.php?f=7&t=12150
+
+[ 6. Font license ]
+
+The font "CabinCondensed-Regular.ttf" is distributed under the following license:
+
+<Start of the font license>
+
+Copyright (c) 2011, Pablo Impallari (www.impallari.com|impallari@gmail.com),
+Copyright (c) 2011, Igino Marini. (www.ikern.com|mail@iginomarini.com),
+with Reserved Font Names "Cabin" and "Cabin Condensed".
+This Font Software is licensed under the SIL Open Font License, Version 1.1.
+This license is copied below, and is also available with a FAQ at:
+http://scripts.sil.org/OFL
+
+
+-----------------------------------------------------------
+SIL OPEN FONT LICENSE Version 1.1 - 26 February 2007
+-----------------------------------------------------------
+
+PREAMBLE
+The goals of the Open Font License (OFL) are to stimulate worldwide
+development of collaborative font projects, to support the font creation
+efforts of academic and linguistic communities, and to provide a free and
+open framework in which fonts may be shared and improved in partnership
+with others.
+
+The OFL allows the licensed fonts to be used, studied, modified and
+redistributed freely as long as they are not sold by themselves. The
+fonts, including any derivative works, can be bundled, embedded, 
+redistributed and/or sold with any software provided that any reserved
+names are not used by derivative works. The fonts and derivatives,
+however, cannot be released under any other type of license. The
+requirement for fonts to remain under this license does not apply
+to any document created using the fonts or their derivatives.
+
+DEFINITIONS
+"Font Software" refers to the set of files released by the Copyright
+Holder(s) under this license and clearly marked as such. This may
+include source files, build scripts and documentation.
+
+"Reserved Font Name" refers to any names specified as such after the
+copyright statement(s).
+
+"Original Version" refers to the collection of Font Software components as
+distributed by the Copyright Holder(s).
+
+"Modified Version" refers to any derivative made by adding to, deleting,
+or substituting -- in part or in whole -- any of the components of the
+Original Version, by changing formats or by porting the Font Software to a
+new environment.
+
+"Author" refers to any designer, engineer, programmer, technical
+writer or other person who contributed to the Font Software.
+
+PERMISSION & CONDITIONS
+Permission is hereby granted, free of charge, to any person obtaining
+a copy of the Font Software, to use, study, copy, merge, embed, modify,
+redistribute, and sell modified and unmodified copies of the Font
+Software, subject to the following conditions:
+
+1) Neither the Font Software nor any of its individual components,
+in Original or Modified Versions, may be sold by itself.
+
+2) Original or Modified Versions of the Font Software may be bundled,
+redistributed and/or sold with any software, provided that each copy
+contains the above copyright notice and this license. These can be
+included either as stand-alone text files, human-readable headers or
+in the appropriate machine-readable metadata fields within text or
+binary files as long as those fields can be easily viewed by the user.
+
+3) No Modified Version of the Font Software may use the Reserved Font
+Name(s) unless explicit written permission is granted by the corresponding
+Copyright Holder. This restriction only applies to the primary font name as
+presented to the users.
+
+4) The name(s) of the Copyright Holder(s) or the Author(s) of the Font
+Software shall not be used to promote, endorse or advertise any
+Modified Version, except to acknowledge the contribution(s) of the
+Copyright Holder(s) and the Author(s) or with their explicit written
+permission.
+
+5) The Font Software, modified or unmodified, in part or in whole,
+must be distributed entirely under this license, and must not be
+distributed under any other license. The requirement for fonts to
+remain under this license does not apply to any document created
+using the Font Software.
+
+TERMINATION
+This license becomes null and void if any of the above conditions are
+not met.
+
+DISCLAIMER
+THE FONT SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
+EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF
+MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT
+OF COPYRIGHT, PATENT, TRADEMARK, OR OTHER RIGHT. IN NO EVENT SHALL THE
+COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,
+INCLUDING ANY GENERAL, SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL
+DAMAGES, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
+FROM, OUT OF THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM
+OTHER DEALINGS IN THE FONT SOFTWARE.
+
+<End of the font license>

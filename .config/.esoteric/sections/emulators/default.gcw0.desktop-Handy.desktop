@@ -1,0 +1,10 @@
+title=Handy
+description=Menu:SELECT
+icon=/usr/local/home/.esoteric/cache/images/Handy/handy.png
+exec=/usr/bin/opkrun
+params=-m default.gcw0.desktop "/media/data/apps/Handy.opk"
+consoleapp=false
+selectorBrowser=true
+X-Provider=/media/data/apps/Handy.opk
+X-ProviderMetadata=default.gcw0.desktop
+selectordir=/media/roms/roms/atarilynx

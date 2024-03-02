@@ -1,0 +1,10 @@
+title=OpenBOR
+description=游戏内退出
+icon=/usr/local/home/.esoteric/cache/images/OpenBOR游戏/openbor.png
+exec=/usr/bin/opkrun
+params=-m default.gcw0.desktop "/media/data/apps/OpenBOR游戏.opk"
+consoleapp=false
+manual=/media/data/local/home/.esoteric/cache/manuals/OpenBOR游戏/manual-cn.txt
+selectorBrowser=true
+X-Provider=/media/data/apps/OpenBOR游戏.opk
+X-ProviderMetadata=default.gcw0.desktop

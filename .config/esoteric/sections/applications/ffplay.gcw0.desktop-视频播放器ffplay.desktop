@@ -1,0 +1,11 @@
+title=FFplay
+description=Simple media player
+icon=/usr/local/home/.esoteric/cache/images/视频播放器ffplay/ffplay.png
+exec=/usr/bin/opkrun
+params=-m ffplay.gcw0.desktop "/media/data/apps/视频播放器ffplay.opk"
+consoleapp=false
+manual=/usr/local/home/.esoteric/cache/manuals/视频播放器ffplay/README.txt
+selectorBrowser=true
+X-Provider=/media/data/apps/视频播放器ffplay.opk
+X-ProviderMetadata=ffplay.gcw0.desktop
+selectordir=/media/sdcard/Media/Video

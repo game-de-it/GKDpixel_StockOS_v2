@@ -1,0 +1,16 @@
+# 350teric X-tended desktop file
+# lines starting with a # are ignored
+
+title=修道院
+description=
+icon=/usr/local/home/.esoteric/cache/images/修道院/abbaye2.png
+exec=/usr/bin/opkrun
+params=-m default.gcw0.desktop "/media/data/apps/修道院.opk"
+selectorDir=
+selectorFilter=
+selectorAlias=
+manual=
+workdir=
+X-Provider=/media/data/apps/修道院.opk
+X-ProviderMetadata=default.gcw0.desktop
+consoleapp=false

@@ -1,0 +1,9 @@
+{
+	"font" : "fz12",
+	"width_pixel" : 12,
+	"height_pixel" : 12,
+	"char_bitmap_bytes" : 24,
+	"total_chars" : 8178,
+	"lang" : "zh_CN",
+	"charset" : "GB2312"
+}

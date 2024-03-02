@@ -1,0 +1,12 @@
+title=Java
+description=J2ME(Java ME)
+icon=/usr/local/home/.esoteric/cache/images/gkdmini_java/java.png
+exec=/usr/bin/opkrun
+params=-m default.gcw0.desktop "/media/data/apps/gkdmini_java.opk"
+consoleapp=false
+manual=/media/data/local/home/GKDmini-emulator manual/emulator/JAVA/manual-en.txt
+selectorBrowser=true
+selectorFilter=jar,
+X-Provider=/media/data/apps/gkdmini_java.opk
+X-ProviderMetadata=default.gcw0.desktop
+selectordir=/media/roms/roms/j2me

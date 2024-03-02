@@ -1,0 +1,12 @@
+title=NDS
+description=Horrible NDS emulator
+icon=/usr/local/home/.esoteric/cache/images/nds-test/nds.png
+exec=/usr/bin/opkrun
+params=-m default.gcw0.desktop "/media/data/apps/nds-test.opk"
+consoleapp=false
+manual=/usr/share/n/cache/手册/lameds/手册.txt
+selectorBrowser=true
+selectorFilter=nds,zip
+X-Provider=/media/data/apps/nds-test.opk
+X-ProviderMetadata=default.gcw0.desktop
+selectordir=/media/sdcard/Roms/NDS

@@ -1,0 +1,6 @@
+MSX Emulator
+
+start menu
+select keyboard
+
+Short press the power button to exit directly

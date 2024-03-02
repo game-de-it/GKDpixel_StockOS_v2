@@ -1,0 +1,8 @@
+按键说明：
+select+start：菜单
+英文说明
+continue继续
+load state 0即时读档0
+save state 0即时存档0
+scaling：Native显示设置
+quit退出

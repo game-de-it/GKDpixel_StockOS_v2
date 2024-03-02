@@ -1,0 +1,6 @@
+title=FE changes
+consoleapp=true
+description=Front end changes
+icon=skin:icons/fechanges.png
+exec=/media/home/apps/fechanges/fechanges.sh
+editable=false

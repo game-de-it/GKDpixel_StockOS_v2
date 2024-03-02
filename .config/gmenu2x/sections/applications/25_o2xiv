@@ -1,0 +1,7 @@
+title=o2xiv
+description=o2xiv
+exec=/usr/bin/o2xiv
+icon=skin:icons/imgv.png
+e image viewer
+exec=/usr/bin/o2xiv
+icon=skin:icons/imgv.png

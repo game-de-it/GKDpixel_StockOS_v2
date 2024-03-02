@@ -1,0 +1,12 @@
+title=FC
+description=中文菜单,支持金手指带震动的FC模拟器
+icon=/usr/local/home/.esoteric/cache/images/fceux-v2.3.2-gkdmini-2021-03-09/fceux.png
+exec=/usr/bin/opkrun
+params=-m default.gcw0.desktop "/media/data/apps/fceux-v2.3.2-gkdmini-2021-03-09.opk"
+consoleapp=false
+manual=/usr/local/home/.esoteric/cache/manuals/fceux-v2.3.2-gkdmini-2021-03-09/manual-cn.txt
+selectorBrowser=true
+selectorFilter=zip,nes
+X-Provider=/media/data/apps/fceux-v2.3.2-gkdmini-2021-03-09.opk
+X-ProviderMetadata=default.gcw0.desktop
+selectordir=/media/sdcard/Roms/FC

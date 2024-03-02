@@ -1,0 +1,6 @@
+PCE/PCE-CD Emulator
+
+Archive directory: 
+/usr/local/home/.temper/save
+
+Menu key: select

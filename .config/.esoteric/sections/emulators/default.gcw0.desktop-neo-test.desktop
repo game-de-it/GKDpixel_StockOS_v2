@@ -1,0 +1,9 @@
+title=NEOGEO
+icon=/usr/local/home/.esoteric/cache/images/neo-test/gngeo.png
+exec=/usr/bin/opkrun
+params=-m default.gcw0.desktop "/media/data/apps/neo-test.opk"
+consoleapp=false
+manual=/media/data/local/home/GKDmini-emulator manual/test simulator/NEGO/manual-en.txt
+selectorBrowser=true
+X-Provider=/media/data/apps/neo-test.opk
+X-ProviderMetadata=default.gcw0.desktop

@@ -1,0 +1,8 @@
+title=苍龙逐日
+description=SDL苍龙逐日
+icon=/media/roms/apps/sdljy-clzr/sdljy.png
+exec=/media/roms/apps/sdljy-clzr/sdljy.dge
+consoleapp=true
+manual=/usr/share/n/cache/手册/金庸/手册.txt
+selectorbrowser=false
+selectorbrowser=false

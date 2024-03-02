@@ -1,0 +1,11 @@
+title=FBN
+description=Support CPS3, revision and cheat code
+icon=/usr/local/home/.esoteric/cache/images/fbn-ex/fba_icon.png
+exec=/usr/bin/opkrun
+params=-m default.gcw0.desktop "/media/data/apps/fbn-ex.opk"
+consoleapp=false
+manual=/media/data/local/home/GKDmini-emulator manual/emulator/FBN/manual-en.txt
+selectorbrowser=false
+X-Provider=/media/data/apps/fbn-ex.opk
+X-ProviderMetadata=default.gcw0.desktop
+selectorbrowser=false

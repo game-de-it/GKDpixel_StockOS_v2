@@ -1,0 +1,54 @@
+XMAME V2.0 Emulator
+
+Exit button: Short press the power button 
+or L+R+select
+
+Enter the game and English hardware information 
+appears, press the arrow keys left and right to 
+enter the game
+
+Game directory shortcuts:
+R1 switches game library, general games are 
+   in SDL.84
+L2 toggle available games, all games, missing 
+   games(The ones in red are the missing games 
+   that cannot be run)In the game list, when x 
+   is selected and turns yellow, L is added to 
+   the collection. later on
+Use the L key to find the game in the collection.
+Be
+Select the game and press A to bring up the 
+menu,The first video rotation video rotation 
+- default auto If you encounter the vertical 
+screen problem of the aircraft vertical screen 
+game,Change to landscape to landscape
+
+In-game shortcuts:
+L+R+select to exit the game
+L+R+start menu
+R+start display frame number
+L+R Pause
+
+start + left arrow key for quick save
+show select posltion to save to
+Press the cross key left and right to select 
+the letter, the letter represents the card slot
+
+start + cross key right fast file reading
+show select posltion to load from
+Press the cross key left and right to select 
+the letter, the letter represents the card slot
+              
+Skill: The archive is the letter A, and the 
+reading file also needs to be A to be read.
+The letter B also needs the cross key to 
+select B, and so on Be
+Matters needing attention; if the menu is 
+called out in the game, please do not mess 
+with the settings.Press the arrow keys to 
+select return to game to continue the game
+
+Game directory: media/roms/apps/xmame-2-0
+/xmame84/roms/, most compatible games are 
+placed in the xmame84 directory,
+The game can only be read on the main card 

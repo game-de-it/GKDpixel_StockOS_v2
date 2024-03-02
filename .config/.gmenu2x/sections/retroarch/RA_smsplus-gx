@@ -1,0 +1,8 @@
+title=GAMEGEAR
+consoleapp=true
+description=libretro core smsplus-gx
+exec=/media/roms/.config/apps/RA_changes/RA_changes.sh
+params=%f smsplus-gx_libretro.so
+icon=/media/roms/.config/icons/gamegear.png
+selectorbrowser=true
+selectordir=/media/roms/roms/gamegear

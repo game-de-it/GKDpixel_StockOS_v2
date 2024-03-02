@@ -1,0 +1,6 @@
+title=.XMAME v2
+description=Exit key: L+R+SELECT  Menu key: L+R+START
+icon=/media/ROMS/apps/xmame/resource/xmame.png
+exec=/media/ROMS/apps/xmame/xmame.dge
+manual=/media/ROMS/apps/xmame/readme.txt
+X-Provider=/media/ROMS/apps/xmame/xmame.dge

@@ -1,0 +1,54 @@
+RG350M FCEUX 模拟器 V2.2.3-M2
+
+V2.2.3-M3
+本版本整合了 CJS提供的汉化，金手指功能。感谢~
+1. 菜单汉化，美化。
+2. 追加汉化金手指功能。
+
+金手指文件存放在 .fceux/cheats下格式：
+
+[生命数]
+ON=46,9
+
+[飞机时无敌]
+ON=E7A,3
+
+[要塞内无限精力]
+ON=DE7,FF;DE9,FF
+
+[要塞内9束]
+ON=DED,9;DEC,9
+
+[GameInfo]
+Name=Air Fortress (U)
+System=FC
+Text=Air Fortress (U)，空中大作战(空中要塞)(美版)，为粉碎敌方的中央电脑及其操作的机械军团而展开的射击节目。游戏中的迷宫十分复杂。
+
+
+V2.2.3-M2
+1. 修复了部分游戏双倍拉升显示不全的问题。
+2. 添加slect + start 退出游戏。
+3. 菜单的Load ROM现在改成Return Game
+
+V2.2.3-M1
+1. 支持震动。
+2. 支持双倍硬件拉升，横扫描滤镜，网格扫描滤镜。
+
+快捷键：
+L2 菜单
+L1 快进
+R2 快速切换硬件拉升渲染方式
+slect + start 退出游戏
+L3 快速保存
+R3 快速读取
+
+R1 + 上 显示帧率
+R1 + start 模拟器暂停
+R1 + select 截图
+
+版本号说明：
+V2.2.3  依赖的FCEUX主版本。
+MX 修改的版号。
+
+本版本基于司徒,cjs和soarqin修改的fceux版本和社区开源版本修改而成，感谢他们的付出。
+源码：https://github.com/littlehui/fceux-for-retrogame

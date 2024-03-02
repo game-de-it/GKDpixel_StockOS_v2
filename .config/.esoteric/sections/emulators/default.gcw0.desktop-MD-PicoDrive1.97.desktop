@@ -1,0 +1,11 @@
+title=MD.pd
+description=Menu:Menu key      PrcoDrive
+icon=/usr/local/home/.esoteric/cache/images/MD-PicoDrive1.97/megadrive.png
+exec=/usr/bin/opkrun
+params=-m default.gcw0.desktop "/media/data/apps/MD-PicoDrive1.97.opk"
+consoleapp=false
+manual=/media/data/local/home/GKDmini-emulator manual/emulator/MD-megadrive16-32X/manual-en.txt
+selectorBrowser=true
+X-Provider=/media/data/apps/MD-PicoDrive1.97.opk
+X-ProviderMetadata=default.gcw0.desktop
+selectordir=/media/roms/roms/md

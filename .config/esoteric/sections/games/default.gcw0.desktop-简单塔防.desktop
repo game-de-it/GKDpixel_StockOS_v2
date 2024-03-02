@@ -1,0 +1,16 @@
+# IUX X-tended desktop file
+# lines starting with a # are ignored
+
+title=简单塔防
+description=
+icon=/usr/local/home/.esoteric/cache/images/简单塔防/wvector.png
+exec=/usr/bin/opkrun
+params=-m default.gcw0.desktop "/media/data/apps/简单塔防.opk"
+selectorDir=
+selectorFilter=
+selectorAlias=
+manual=
+workdir=
+X-Provider=/media/data/apps/简单塔防.opk
+X-ProviderMetadata=default.gcw0.desktop
+consoleapp=false

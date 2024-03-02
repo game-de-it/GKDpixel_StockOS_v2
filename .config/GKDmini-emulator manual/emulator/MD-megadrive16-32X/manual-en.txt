@@ -1,0 +1,20 @@
+MD Sega emulator picodrive
+
+This emulator supports 16-bit 32-bit MD games
+
+Archive directory /usr/local/home/.picodrive/srm
+
+menu: menu key
+L2 acceleration
+R2 Quick Archive
+
+Key settings: CONFIGURE CONTROLS
+player1 player 1 button settings
+player2 player 2 button settings
+Emulator controls emulator shortcut key settings
+Input device1 Input device 1 select 6 key or 3 key
+Input device2 Input device 2 select 6 key or 3 key
+Turbo rate burst speed
+Analog deadzone
+Save global config Save the global configuration
+Save cfg for loaded game

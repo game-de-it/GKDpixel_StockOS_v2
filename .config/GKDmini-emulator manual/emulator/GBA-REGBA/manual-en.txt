@@ -1,0 +1,122 @@
+﻿ReGBA Chinese Version 
+Archive directory /usr/local/home/.gpsp/
+cheat directory /usr/local/home/.gpsp/cheat
+
+
+Menu key: right key menu/START+SELECT
+R2 Quick Save
+L2 acceleration
+
+Tips: Menu Settings/Display Settings/Image Settings 
+Several rendering modes,If you want to point to 
+point, you can change it to classic
+
+border replacement: file management open path 
+usr/local/home/.gpsp
+The border.png file in the directory is the border
+Other border files are in the gba border directory, 
+and the directory name is Replace border.png to 
+.gpsp file with the same name
+
+Note: Not all features of games that support 
+cheats can be enabled.If the enabled function 
+crashes, please restart the game and select 
+other items to test
+
+Kingdom Hearts has been put into the skip 
+animation quick save, exhale in the game Select 
+the save state from the menu and load it from the
+selection slot
+
+Goldfinger Tutorial:
+1. Instructions for use
+This simulator is modified based on the open 
+source ReGBA simulator, currently v7.0
+Version can add up to 100 cheats
+Please put ROM name.cht in /media/data/local 
+of GKDmini /home/.gpsp/cheats
+Create a new folder without CHEATS Note that 
+the folder name is capitalized
+
+For example, the rom name is The Legend of 
+Zelda Shrinking Cap.zip then the cht file is 
+the legend of zelda shrink cap.cht The overall 
+path of cht is /media/data/local/home/.gpsp
+/cheats/The Legend of Zelda Shrinking Hat.cht
+
+2. Gold finger coding support
+
+Currently supported cheat commands include:
+direct
+gameshark_v1/v2, v3
+PAR_v1/v2, v3
+
+Note:
+direct is a cheat in vba format that starts
+with 020, 120, 220, etc. Goldfinger
+gameshark and PAR are encoded cheats, you 
+can use cheats The code converter converts the 
+direct (vba) code (generally starting with X20) 
+into Coding of relevant coding conventions
+
+3. Gold Finger Format
+
+1. The content format of the cht file is:
+
+Coded version Goldfinger name
+8-bit encoding 8-bit encoding
+
+2.GameShark, PAR format:
+
+for example:
+gameshark_v1 Lv100
+CA499443 E0C1D4B1
+
+The direct (vba) code (generally X20 open) can 
+be converted by the cheat code converter. header) 
+to the encrypted cipher of the relevant encoding 
+specification
+
+3.direct (vba) format:
+
+direct_v1 Lv99
+0201326D 00000063
+//63's decimal is 99, because only 1 byte needs 
+to be written,So the first digit of the address 
+part is 0
+
+direct_v1 HP
+1201326E 000003E7
+//03E7's decimal is 999, because only 2 bytes 
+need to be written,So the first digit of the 
+address part is 1
+
+direct_v1 HP
+0201326E 000000E7
+//Same as the previous one, just write the data 
+separately,Note that the data is put in reverse 
+order after splitting,There is also a change in 
+the first write control bit 0201326F 00000003
+
+The first bit of the address part of the vba 
+code is the number of bits to be written, and 
+0 means writing
+1byte, 1 means writing 2byte, 2 means writing 
+3byte, 3 means writing 4byte 2-8 bits are the 
+address, and the place where the number of bits 
+in the data part is insufficient should be 
+filled with 0
+
+
+4. A cheat can contain multiple data
+
+for example:
+gameshark_v1 Highest ability
+3271DC2A 0E36F849
+E52D898C 68702D88
+6EA4A70D 0A3E8D72
+
+Note: There should be a line of space between 
+each cheat (V5.0+ has been removed
+This limitation), if you don't understand, 
+you can check the sample

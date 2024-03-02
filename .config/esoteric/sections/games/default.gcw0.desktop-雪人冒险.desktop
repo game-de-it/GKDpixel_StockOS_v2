@@ -1,0 +1,16 @@
+# 350teric X-tended desktop file
+# lines starting with a # are ignored
+
+title=Snowman
+description=
+icon=/usr/local/home/.esoteric/cache/images/雪人冒险/snowman.png
+exec=/usr/bin/opkrun
+params=-m default.gcw0.desktop "/media/data/apps/雪人冒险.opk"
+selectorDir=
+selectorFilter=
+selectorAlias=
+manual=/usr/local/home/.esoteric/cache/manuals/雪人冒险/README
+workdir=
+X-Provider=/media/data/apps/雪人冒险.opk
+X-ProviderMetadata=default.gcw0.desktop
+consoleapp=false

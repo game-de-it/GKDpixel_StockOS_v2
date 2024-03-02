@@ -1,0 +1,11 @@
+title=Watara
+description=Watara Supervision emulator
+icon=/usr/local/home/.esoteric/cache/images/Watara-test/potator.png
+exec=/usr/bin/opkrun
+params=-m default.gcw0.desktop "/media/data/apps/Watara-test.opk"
+consoleapp=false
+manual=/media/data/local/home/GKDmini-emulator manual/test simulator/watara/manual-en.txt
+selectorBrowser=true
+X-Provider=/media/data/apps/Watara-test.opk
+X-ProviderMetadata=default.gcw0.desktop
+selectordir=/media/roms/roms/supervision

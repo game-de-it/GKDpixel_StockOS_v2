@@ -1,0 +1,16 @@
+# 350teric X-tended desktop file
+# lines starting with a # are ignored
+
+title=异教徒
+description=
+icon=/usr/local/home/.esoteric/cache/images/厄运-异教徒/heretic.png
+exec=/usr/bin/opkrun
+params=-m heretic.gcw0.desktop "/media/data/apps/厄运-异教徒.opk"
+selectorDir=
+selectorFilter=
+selectorAlias=
+manual=
+workdir=
+X-Provider=/media/data/apps/厄运-异教徒.opk
+X-ProviderMetadata=heretic.gcw0.desktop
+consoleapp=true

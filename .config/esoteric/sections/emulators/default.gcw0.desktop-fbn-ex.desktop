@@ -1,0 +1,12 @@
+title=FBN-ex
+description=FBN 1.0.0.1
+icon=/usr/local/home/.esoteric/cache/images/fbn-ex/fba_icon.png
+exec=/usr/bin/opkrun
+params=-m default.gcw0.desktop "/media/data/apps/fbn-ex.opk"
+consoleapp=false
+manual=/usr/share/n/cache/手册/fbn/手册.txt
+selectorBrowser=true
+selectorFilter=zip
+X-Provider=/media/data/apps/fbn-ex.opk
+X-ProviderMetadata=default.gcw0.desktop
+selectordir=/media/sdcard/Roms/FBN

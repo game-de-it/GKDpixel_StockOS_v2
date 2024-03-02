@@ -1,0 +1,6 @@
+title=o2xiv
+description=Simple image viewer
+icon=skin:icons/imgv.png
+exec=/usr/bin/o2xiv
+consoleapp=true
+selectorBrowser=true

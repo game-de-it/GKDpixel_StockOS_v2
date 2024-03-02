@@ -1,0 +1,11 @@
+title=Fceux
+description=Menu:Menu key/Fast forward:L2/Screen size R2
+icon=/usr/local/home/.esoteric/cache/images/FC-fceux-v2.3.2/fceux.png
+exec=/usr/bin/opkrun
+params=-m default.gcw0.desktop "/media/data/apps/FC-fceux-v2.3.2.opk"
+consoleapp=false
+manual=/usr/local/home/.esoteric/cache/manuals/FC-fceux-v2.3.2/manual-en.txt
+selectorBrowser=true
+X-Provider=/media/data/apps/FC-fceux-v2.3.2.opk
+X-ProviderMetadata=default.gcw0.desktop
+selectordir=/media/roms/roms/nes

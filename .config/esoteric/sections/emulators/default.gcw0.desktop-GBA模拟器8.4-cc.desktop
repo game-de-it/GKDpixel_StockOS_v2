@@ -1,0 +1,12 @@
+title=GBA
+description=菜单键:双S键/右快捷键 加速：按住R2(金手指)
+icon=/usr/local/home/.esoteric/cache/images/GBA模拟器8.4-cc/regba-silver.png
+exec=/usr/bin/opkrun
+params=-m default.gcw0.desktop "/media/data/apps/GBA模拟器8.4-cc.opk"
+consoleapp=false
+manual=/usr/local/home/.esoteric/cache/manuals/GBA模拟器8.4-cc/manual-en.txt
+selectorBrowser=true
+selectorFilter=gba,zip
+X-Provider=/media/data/apps/GBA模拟器8.4-cc.opk
+X-ProviderMetadata=default.gcw0.desktop
+selectordir=/media/sdcard/Roms/GBA

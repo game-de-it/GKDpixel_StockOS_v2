@@ -1,0 +1,4 @@
+title=Retroarch FULL
+description=Retroarch FULL(RG350)
+exec=/media/roms/retroarch/retroarch_full.sh
+icon=skin:icons/generic.png

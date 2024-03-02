@@ -1,0 +1,8 @@
+title=AMIGA
+consoleapp=true
+description=libretro core puae
+exec=/media/roms/.config/apps/RA_changes/RA_changes.sh
+params=%f puae_libretro.so
+icon=/media/roms/.config/icons/amiga.png
+selectorbrowser=true
+selectordir=/media/roms/roms/amiga

@@ -1,0 +1,8 @@
+title=98柔情篇
+description=仙剑奇侠传98柔情篇
+icon=/media/roms/apps/sdl-pal98/icon-32.png
+exec=/media/roms/apps/sdl-pal98/sdlpal.dge
+consoleapp=true
+manual=/usr/share/n/cache/手册/仙剑/手册.txt
+selectorbrowser=false
+selectorbrowser=false

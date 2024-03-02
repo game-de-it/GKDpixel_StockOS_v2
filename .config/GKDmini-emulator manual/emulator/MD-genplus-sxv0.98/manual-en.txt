@@ -1,0 +1,30 @@
+MD Emulator Genesis SX
+
+Archive directory
+/usr/local/home/.genplus-sx/saves
+Goldfinger Directory
+/usr/local/home/.genplus-sx/cheats
+
+Enter the game and wait for the SEGA 
+icon to display You can press the menu 
+button, do not press the menu button immediately,
+will be stuck, press the switch key to exit,
+
+hot key:
+menu key popup menu
+SELECT+START: popup menu
+START+L: toggle fast forward on/off
+SELECT+L: Quickly save to file 1
+SELECT+R: Quickly read file number 1
+
+Press the wrong button according to the 
+following settings:
+A Y
+B B
+C A
+XL
+Y X
+Z R
+START SELECT
+MODE SELECT
+

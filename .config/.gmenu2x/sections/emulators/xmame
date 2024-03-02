@@ -1,0 +1,7 @@
+title=XMAME
+description=XMAME
+icon=/media/roms/apps/xmame/resource/xmame.png
+exec=/media/roms/apps/xmame/xmame.dge
+manual=/media/roms/apps/xmame/readme.txt
+selectordir=/media/roms/roms/mame
+selectorbrowser=true

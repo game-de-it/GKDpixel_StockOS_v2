@@ -1,0 +1,4 @@
+watara simulator
+
+Menu key SELECT
+start START

@@ -1,0 +1,10 @@
+title=.XMAME-v2
+description=Exit: power menu:L+R+START
+icon=/usr/local/home/.esoteric/cache/images/XMAME-2.0/xmame.png
+exec=/usr/bin/opkrun
+params=-m default.gcw0.desktop "/media/data/apps/XMAME-2.0.opk"
+consoleapp=false
+manual=/media/data/local/home/GKDmini-emulator manual/emulator/XMAMEv2/manual-en.txt
+selectorBrowser=true
+X-Provider=/media/data/apps/XMAME-2.0.opk
+X-ProviderMetadata=default.gcw0.desktop

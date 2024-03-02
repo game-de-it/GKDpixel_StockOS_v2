@@ -1,0 +1,174 @@
+
+OLDPLAY for GCW0 (OpenDingux)
+Adapted from OLDPLAY for Dingux v1.12 by gama
+Based on Oldplay v1.33 for GP2x by sasq & micket
+-------------------------------------------------
+
+This is a port of a great music app for the gp2x, which
+I never had the chance to try because I never got a gp2x,
+so I decided to test it on the dingoo and now the gcw0.
+
+For those who doesn't know the app, it is an open source
+multi format music player which currently supports several
+chiptune and other music formats.
+
+For the gcw0 port, I merely recompiled the dingux sources,
+but decided to make a couple of significant changes:
+
+Removed some plugins like musepack, wavpack and ape, that
+I consider to be 'obsolete'. But if anyone request them
+I can re-add them in future versions.
+
+I have finally added a working psf plugin using the upse
+library and a gsf plugin using viogsf sources, which is
+based on vbam. The psf plugin sounds great, it uses Neil
+Corlett latest spu engine, the same used by kode54 in his
+foobar plugins.
+
+And finally fixed the dynamic version of the app, which
+loads .so plugins. Now the main app is a lot smaller in
+size and plugins can be easily added or removed without
+recompiling the main application.
+
+I have included the source code following it's license. So
+anyone is free to make the desired changes to it, add more
+plugins, etc. I just ask that anyone who make a change describe
+it in the changelog.
+
+Please see CHANGELOG to find the complete list of changes.
+
+
+Features
+
+Currently i have ported the following plugins:
+
+ - FLAC
+ - Modplug
+ - AdPlug
+ - Sidplay (based on sidplayfp)
+ - game_music_emu
+ - vorbis
+ - Timidity
+ - UADE
+ - FAAD
+ - TTA
+ - WavPack
+
+* NEW *
+ - mpg123
+ - ST-Sound
+ - Hively Tracker
+ - SC68
+ - Sidplay-fp (currently uses resid emulation to support RESID songs ;))
+ - PSF (upse)
+ - GSF (vbam)
+ - vgmstream
+ - OPUS
+ - PSF2 (Highly_Experimental)
+ - SSF/DSF (Highly_Theoretical)
+ - 2SF (vio2sf)
+ - WSR (in_wsr)
+
+* psf2, ssf (dsf), 2sf plugins are experimental, the are very cpu intensive and most
+soundtracks will play with lots of lag. The psf2 plugin is not included in the opk, because
+it replaces the original psf plugin based on UPSE. It's up to the user to install it
+to '/usr/local/home/.oldplay/plugins'.
+
+** The psf2 plugin based on Highly_Experimental will search for a ps2 bios, it
+must be called 'scph10000.bin' and placed inside '/usr/local/home/.oldplay'.
+
+Almost every internal feature is supported:
+
+- Playlist
+- Zip support
+- Themes
+- CPU scaling
+- Keymapping
+- etc
+
+
+TODO
+-----
+
+- Port remaining (more) plugins.
+- Fix battery level indicator (?).
+- Help me think of something :).
+
+* Please read TODO file for a complete list
+
+
+This is the default key configuration:
+
+KEYS
+----
+
+DINGOO/GCWO  	Action
+...................................................
+Start   		Pause
+Pad     		Navigate, Rewind, Fast Forward & Subsongs
+Sel     		Switch playlist/browser
+A       		Play, Enter dir or zipfile
+B				Go to parent folder
+Y       		Add song to playlist
+				 (in playlist)   Move song to after current
+X       		Skip to Next Song
+
+R+Sel     		Save Playlist
+Hold (switch)	Hold (lock keys)
+L+Up    		Volume Up
+L+Down  		Volume Down
+L+Right 		Default song length up
+L+Left  		Default song length down
+
+R+Right 		Select next subtune (in browser)
+R+Left  		Select prev subtune (in browser)
+
+R+Y     		Remove song (in playlist)
+R+A     		Skip to previous song
+R+X     		Repeat On/Off
+R+B     		Shuffle On/Off
+R+Up    		Page Up
+R+Down  		Page Down
+R+Start 		Quit
+
+R+L+Select      Toggle sound blend on or off.
+R+L+Up          Increase blend factor.
+R+L+Down        Decrease blend factor.
+
+* The power switch can also be used as a button.
+
+
+INSTALL (Dingux)
+--------
+
+* IMPORTANT *
+Don't forget to copy the file formats.db to the oldplay folder.
+
+To install if you are using dmenu, you can create an entry
+in the menu_media.cfg like this one:
+
+MenuItem Oldplay
+{
+Icon = "res/media/oldplay.png"
+Name = " Oldplay"
+Executable = "./oldplay"
+WorkDir = "/usr/local/apps/oldplay"
+}
+
+And copy the oldplay folder with all it's contents to
+/usr/local/apps.  You must supply an icon or use the
+included oldplay.png icon.
+
+To install in gmenu2x, just press select and search for
+the executable or let gmenu2x do it for you with the automatic
+search :).
+
+
+Well i hope you enjoy this one as much as i do :)
+
+  Thanks a lot to sasq and micket, the creators
+  of this wonderfull homebrew and of course to every
+  developer who has made posible for us enjoy digital music.
+
+  Special thanks to kode54 for letting me use his foobar plugins's
+  sources.
