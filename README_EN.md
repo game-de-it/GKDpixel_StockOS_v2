@@ -31,7 +31,7 @@ Please note that this OS image does not include BIOS or ROM files in accordance 
    - [Click here for core list](./asset/sc01.png)
 - Changed to the same ROM directory layout as JELOS
 - Delete the esoteric and gmenu2x test sections and unify them into the emulators section
-- You can create thumbnails by taking snapshots with picoarch
+- ~~ You can create thumbnails by taking snapshots with picoarch ~~
 
 # Known issues
 ## retroarch problem

@@ -33,7 +33,7 @@ StockOSをベースに新しい機能を追加させました。
   - [コアリストはこちら](./asset/sc01.png)
 - JELOSと同じROMディレクトリ配置に変更
 - esotericとgmenu2xのtestセクションを削除してemulatorsセクションに統一
-- picoarchでスナップショットを撮るとサムネイル化が可能
+- ~~ picoarchでスナップショットを撮るとサムネイル化が可能 ~~
 
 # 既知の問題
 ## retroarchの問題
