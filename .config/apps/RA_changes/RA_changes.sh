@@ -7,22 +7,42 @@ SEL3="off"
 CORE="$2"
 ROM="$1"
 
-retroarch_cmd() {
-	export GL_SYNC_TO_VBLANK=1
-	/media/roms/retroarch/retroarch_full.sh  "${ROM}" ${CORE}
-}
+if [ "${ROM}" = "esoteric" ];
+then
+	ROM="$3"
+	retroarch_cmd() {                                                
+		export GL_SYNC_TO_VBLANK=1                               
+		/media/roms/retroarch/retroarch_full.sh  "${ROM}" ${CORE}                                                                                  
+	}                                                                                                                                                  
+                                                                                                                                                   
+	picoarch_cmd() {                                                                                                                                   
+        	/media/roms/picoarch/picoarch.sh "${ROM}" ${CORE}                                                                                          
+	}                                                                                                                                                  
+                                                                                                                                                   
+	minira_cmd() {                                                                                                                                     
+        	/media/roms/minira/retrorun32 -d /media/roms/minira/retroarch/ -s /media/roms/minira/saves/${CORE} -c /media/roms/minira/cheats/${CORE} /media/roms/retroarch/.retroarch/cores/${CORE} "${ROM}" 
+	}       
 
-picoarch_cmd() {
-	/media/roms/picoarch/picoarch.sh "${ROM}" ${CORE}
-}
+else
+	ROM="$1" 
+	retroarch_cmd() {
+		export GL_SYNC_TO_VBLANK=1
+		/media/roms/retroarch/retroarch_full.sh  "${ROM}" ${CORE}
+	}
 
-minira_cmd() {
-	/media/roms/minira/retrorun32 -d /media/roms/minira/retroarch/ -s /media/roms/minira/saves/${CORE} -c /media/roms/minira/cheats/${CORE} /media/roms/retroarch/.retroarch/cores/${CORE} "${ROM}"
-}
+	picoarch_cmd() {
+		/media/roms/picoarch/picoarch.sh "${ROM}" ${CORE}
+	}
 
-dialog_cmd() {
-		dialog  --radiolist "=== RA changes === \n X BTN:Select \n <-,->BTN:OK or Cancel \n START BTN:Enter" 0 0 0 1 "Retroarch" ${SEL1}  2 "picoarch" ${SEL2}  3 "minira" ${SEL3} 2>${LASTSELECT}
-}
+	minira_cmd() {
+		/media/roms/minira/retrorun32 -d /media/roms/minira/retroarch/ -s /media/roms/minira/saves/${CORE} -c /media/roms/minira/cheats/${CORE} /media/roms/retroarch/.retroarch/cores/${CORE} "${ROM}"
+	}
+
+fi
+
+	dialog_cmd() {
+			dialog  --radiolist "=== RA changes === \n X BTN:Select \n <-,->BTN:OK or Cancel \n START BTN:Enter" 0 0 0 1 "Retroarch" ${SEL1}  2 "picoarch" ${SEL2}  3 "minira" ${SEL3} 2>${LASTSELECT}
+	}
 
 if [ -f ${LASTSELECT} ];
 then
